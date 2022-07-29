@@ -2,25 +2,25 @@
   "embeddings": [
     {
       "tensorName": "Cohebert: última camada BERTimbau large",
-      "tensorShape": [1024, 218],
+      "tensorShape": [1024, 337],
       "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/records_1024_large.tsv",
       "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/meta_1024_large.tsv"
     },   
     {
       "tensorName": "Cohebert: última camada BERTimbau base",
-      "tensorShape": [768, 218],
+      "tensorShape": [768, 337],
       "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/records_768_base.tsv",
       "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/meta_768_base.tsv"
     },
     {
       "tensorName": "Cohebert: concat 4 últimas camadas BERTimbau large",
-      "tensorShape": [4096, 218],
+      "tensorShape": [4096, 337],
       "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/records_4096_large.tsv",
       "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/meta_4096_large.tsv"
     },  
     {
       "tensorName": "Cohebert: concat 4 últimas BERTimbau base",
-      "tensorShape": [3072, 218],
+      "tensorShape": [3072, 337],
       "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/records_3072_base.tsv",
       "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/meta_3072_base.tsv"
     }
