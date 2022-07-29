@@ -1,0 +1,22 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Cohebert v1: BERTimbau large",
+      "tensorShape": [
+        1024
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/.../tensors.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/.../optional.metadata.tsv"
+    },
+	{
+      "tensorName": "Cohebert v1: BERTimbau base",
+      "tensorShape": [
+        768
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/.../tensors.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/.../optional.metadata.tsv"
+    }	
+  ]
+}
