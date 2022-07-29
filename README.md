@@ -1,7 +1,12 @@
-# cohebertv1visualizacao
-Visualização dos embeddings do Cohebert vutilizando BERTimbau.
+# Visualização dos Embeddings do Cohebert v1
+
+Visualização dos embeddings do Cohebert utilizando BERTimbau.
 
 https://projector.tensorflow.org/
+
+Utiliza o BERTimbau base e large.
+
+Utiliza os embeddings da última camada e da concatenação das 4 últimas camadas.
 
 Exemplo de utilização dos arquivos no projector:
 
