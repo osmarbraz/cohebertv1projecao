@@ -13,7 +13,7 @@
       "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/meta_1024.tsv"
     },
     {
-      "tensorName": "Cohebert v1: última camada BERTimbau base",
+      "tensorName": "Cohebert v1:BERTimbau base",
       "tensorShape": [768, 336],
       "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/records_768.tsv",
       "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/meta_768.tsv"
