@@ -1,28 +1,28 @@
 {
   "embeddings": [
     {
-      "tensorName": "Cohebert v1: última camada BERTimbau large",
-      "tensorShape": [1024, 336],
-      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/records_1024_large.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/meta_1024_large.tsv"
+      "tensorName": "Cohebert: última camada pool BERTimbau large",
+      "tensorShape": [1024, 218],
+      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/records_1024_large_pool.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/meta_1024_large_pool.tsv"
     },   
     {
-      "tensorName": "Cohebert v1: última camada BERTimbau base",
-      "tensorShape": [768, 336],
-      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/records_768_base.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/meta_768_base.tsv"
+      "tensorName": "Cohebert: última camada pool BERTimbau base",
+      "tensorShape": [768, 218],
+      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/records_768_base_pool.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/meta_768_base_pool.tsv"
     },
     {
-      "tensorName": "Cohebert v1: concat 4 últimas camadas BERTimbau large",
-      "tensorShape": [4096, 336],
-      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/records_4096_large.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/meta_4096_large.tsv"
-    },  
-    {
-      "tensorName": "Cohebert v1: concat 4 últimas polling BERTimbau large",
+      "tensorName": "Cohebert: concat 4 últimas camadas pool BERTimbau large",
       "tensorShape": [4096, 218],
       "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/records_4096_large_pool.tsv",
       "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/meta_4096_large_pool.tsv"
+    },  
+    {
+      "tensorName": "Cohebert: concat 4 últimas pool BERTimbau base",
+      "tensorShape": [3072, 218],
+      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/records_3072_base_pool.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/meta_3072_base_pool.tsv"
     }
   ]
 }

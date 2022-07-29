@@ -18,5 +18,11 @@
       "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/records_4096_large.tsv",
       "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/meta_4096_large.tsv"
     },      
+	{
+      "tensorName": "Cohebert: concat 4 últimas camadas BERTimbau base",
+      "tensorShape": [3072, 336],
+      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/records_4096_base.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/meta_4096_base.tsv"
+    },      
   ]
 }
