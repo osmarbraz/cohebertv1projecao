@@ -10,7 +10,7 @@ Possui 4 versões dos embeddings do cohebert sem pooling dos tokens:
 - 3 - Concatenação das 4 últimas camadas do BERTimbau base
 - 5 - Concatenação das 4 últimas camadas do BERTimbau large
 
-Link para o Embedding Projector:
+Link para o Embedding Projector sem pooling:
 https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/config.json
 
 
@@ -20,5 +20,5 @@ Possui 3 versões dos embeddings do cohebert com pooling média dos embeddings d
 - 3 - Concatenação das 4 últimas camadas do BERTimbau base
 - 4 - Concatenação das 4 últimas camadas do BERTimbau large
 
-Link para o Embedding Projector:
+Link para o Embedding Projector com pooling:
 https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/config_pool.json
