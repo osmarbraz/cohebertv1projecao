@@ -20,7 +20,7 @@
     },  
     {
       "tensorName": "Cohebert v1: concat 4 últimas polling BERTimbau large",
-      "tensorShape": [1024, 336],
+      "tensorShape": [4096, 218],
       "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/records_4096_large_pool.tsv",
       "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/meta_4096_large_pool.tsv"
     }
