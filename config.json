@@ -23,6 +23,6 @@
       "tensorShape": [3072, 336],
       "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/records_4096_base.tsv",
       "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/meta_4096_base.tsv"
-    },      
+    }
   ]
 }
