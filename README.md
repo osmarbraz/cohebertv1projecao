@@ -21,4 +21,4 @@ Possui 3 versões dos embeddings do cohebert com pooling média dos embeddings d
 - 4 - Concatenação das 4 últimas camadas do BERTimbau large
 
 Link para o Embedding Projector:
-https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/config_pooling.json
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/config_pool.json
