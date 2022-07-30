@@ -11,19 +11,17 @@ Os arquivos utilizados pelo visualizados estão divididos em duas pastas: **"com
 - 3 - Concatenação das 4 últimas camadas do BERTimbau base
 - 5 - Concatenação das 4 últimas camadas do BERTimbau large
 
-Link para o Embedding Projector sem pooling:
+**Link** para o Embedding Projector sem pooling através do arquivo config.json:
 https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/config.json
 
-
-## A pasta **"comooling"** possui 4 versões dos embeddings do cohebert:
+## A pasta **"compooling"** possui 4 versões dos embeddings do cohebert:
 - 1 - Última camada do BERTimbau base
 - 2 - Última camada do BERTimbau large
 - 3 - Concatenação das 4 últimas camadas do BERTimbau base
 - 4 - Concatenação das 4 últimas camadas do BERTimbau large
 
-Link para o Embedding Projector com pooling:
+**Link **para o Embedding Projector com pooling através do arquivo config_pool.json:
 https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/config_pool.json
-
 
 ## Geração dos arquivos
 
