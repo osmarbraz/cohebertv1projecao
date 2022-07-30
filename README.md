@@ -1,10 +1,11 @@
-# Visualização dos Embeddings do Cohebert v1
+# Visualização dos Embeddings do Cohebert
 
-Visualização dos embeddings do Cohebert utilizando BERTimbau.
-
+Visualização dos embeddings do Cohebert gerados pelo BERTimbau utilizando o Embedding Projector.
 https://projector.tensorflow.org/
 
-Possui 4 versões dos embeddings do cohebert sem pooling dos tokens:
+Os arquivos utilizados pelo visualizados estão divididos em duas pastas: "compooling" e "sempooling". Quem indicam se foi utilizado o pooling dos embeddings dos tokens das palavras fora do vocabulário.
+
+A pasta "sempooling" possui 4 versões dos embeddings do cohebert:
 - 1 - Última camada do BERTimbau base
 - 2 - Última camada do BERTimbau large
 - 3 - Concatenação das 4 últimas camadas do BERTimbau base
@@ -14,7 +15,7 @@ Link para o Embedding Projector sem pooling:
 https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/config.json
 
 
-Possui 3 versões dos embeddings do cohebert com pooling média dos embeddings dos tokens de palavras fora do vocabulário:
+A pasta "comooling" possui 4 versões dos embeddings do cohebert:
 - 1 - Última camada do BERTimbau base
 - 2 - Última camada do BERTimbau large
 - 3 - Concatenação das 4 últimas camadas do BERTimbau base
