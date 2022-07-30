@@ -23,3 +23,6 @@ A pasta "comooling" possui 4 versões dos embeddings do cohebert:
 
 Link para o Embedding Projector com pooling:
 https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/config_pool.json
+
+
+Os arquivos utilizados pelo Embedding Projector foram gerados pelo notebook: https://github.com/osmarbraz/exemplos_BERT/blob/main/ExemplosVisualizacaoEmbeddingBERT_pt_br.ipynb.
