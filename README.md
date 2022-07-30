@@ -20,7 +20,7 @@ https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmar
 - 3 - Concatenação das 4 últimas camadas do BERTimbau base
 - 4 - Concatenação das 4 últimas camadas do BERTimbau large
 
-**Link **para o Embedding Projector com pooling através do arquivo config_pool.json:
+**Link** para o Embedding Projector com pooling através do arquivo config_pool.json:
 https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/config_pool.json
 
 ## Geração dos arquivos
