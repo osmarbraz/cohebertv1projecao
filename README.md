@@ -23,6 +23,19 @@ https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmar
 **Link** para o Embedding Projector com pooling através do arquivo config_pool.json:
 https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/config_pool.json
 
+## A pasta **"faquad"** possui 1 versão do FaQuAD com os embeddings das palavras e sua POS-Tag:
+- 1 - Concatenação das 4 últimas camadas do BERTimbau large
+
+**Link** para o Embedding Projector com pooling através do arquivo config_faquad.json:
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/config_faquad.json
+
+
+## A pasta **"squad2_p"** possui 1 versão do SQuAD 2 com os embeddings das palavras e sua POS-Tag:
+- 1 - Concatenação das 4 últimas camadas do BERTimbau large
+
+**Link** para o Embedding Projector com pooling através do arquivo config_squad2_p.json:
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/config_squad2_p.json
+
 ## Geração dos arquivos
 
 Os arquivos utilizados pelo Embedding Projector foram gerados pelo notebook: https://github.com/osmarbraz/exemplos_BERT/blob/main/ExemplosVisualizacaoEmbeddingBERT_pt_br.ipynb.

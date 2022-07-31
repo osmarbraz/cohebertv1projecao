@@ -1,0 +1,10 @@
+{
+  "embeddings": [    
+    {
+      "tensorName": "SQuAD 2: concat 4 últimas camadas pool BERTimbau large",
+      "tensorShape": [4096, 16191],
+      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/squad2_p/records_squad2_p_4096_large_pool.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/squad2_p/meta_squad2_p_4096_large_pool.tsv"
+    }
+  ]
+}
