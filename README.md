@@ -10,7 +10,7 @@ Os arquivos utilizados pelo visualizador estão divididos em duas pastas: **"com
 - 3 - Concatenação das 4 últimas camadas do BERTimbau base
 - 5 - Concatenação das 4 últimas camadas do BERTimbau large
 
-**Link** para o Embedding Projector com o arquivo 'config.json' e as referências aos dados:
+**Link** para o Embedding Projector com o arquivo *config.json* e as referências aos dados:
 https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/config.json
 
 ## A pasta **"compooling"** possui 4 versões dos DOs do Cohebert com os embeddings das palavras e sua POS-Tag:
@@ -19,13 +19,13 @@ https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmar
 - 3 - Concatenação das 4 últimas camadas do BERTimbau base
 - 4 - Concatenação das 4 últimas camadas do BERTimbau large
 
-**Link** para o Embedding Projector com o arquivo 'config_pool.json' e as referências aos dados:
+**Link** para o Embedding Projector com o arquivo *config_pool.json* e as referências aos dados:
 https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/config_pool.json
 
 ## A pasta **"compooling"** possui 1 versão dos DOs e pertDOs do Cohebert de com os embeddings das palavras e sua POS-Tag:
 - 1 - Concatenação das 4 últimas camadas do BERTimbau large
 
-**Link** para o Embedding Projector com o arquivo 'config_pool_classe.json' e as referências aos dados:
+**Link** para o Embedding Projector com o arquivo *config_pool_classe.json* e as referências aos dados:
 https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/config_pool_classe.json
 
 ## Notebook para geração dos arquivos tsv
