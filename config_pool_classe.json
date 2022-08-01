@@ -1,7 +1,7 @@
 {
   "embeddings": [
    {
-      "tensorName": "Cohebert DO_pertDO: concat 4 últimas camadas pool BERTimbau large",
+      "tensorName": "Cohebert DO/pertDO: concat 4 últimas camadas pool BERTimbau large",
       "tensorShape": [4096, 434],
       "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/compooling/records_4096_large_pool_classe.tsv",
       "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/compooling/meta_4096_large_pool_classe.tsv"
