@@ -5,7 +5,7 @@ https://projector.tensorflow.org/
 
 Os arquivos utilizados pelo visualizados estão divididos em duas pastas: **"compooling"** e **"sempooling"**. Quem indicam se foi utilizado o pooling dos embeddings dos tokens das palavras fora do vocabulário.
 
-## A pasta **"sempooling"** possui 4 versões dos cohebert com os embeddings dos tokens:
+## A pasta **"sempooling"** possui 4 versões dos cohebert com os embeddings dos tokens de DO:
 - 1 - Última camada do BERTimbau base
 - 2 - Última camada do BERTimbau large
 - 3 - Concatenação das 4 últimas camadas do BERTimbau base
@@ -14,7 +14,7 @@ Os arquivos utilizados pelo visualizados estão divididos em duas pastas: **"com
 **Link** para o Embedding Projector sem pooling através do arquivo config.json:
 https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/config.json
 
-## A pasta **"compooling"** possui 4 versões do cohebert com os embeddings das palavras e sua POS-Tag:
+## A pasta **"compooling"** possui 4 versões do cohebert com os embeddings das palavras e sua POS-Tag de DO:
 - 1 - Última camada do BERTimbau base
 - 2 - Última camada do BERTimbau large
 - 3 - Concatenação das 4 últimas camadas do BERTimbau base
@@ -22,6 +22,12 @@ https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmar
 
 **Link** para o Embedding Projector com pooling através do arquivo config_pool.json:
 https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/config_pool.json
+
+## A pasta **"compooling"** possui 4 versões do cohebert com os embeddings das palavras e sua POS-Tag de DO e pertDO:
+- 1 - Concatenação das 4 últimas camadas do BERTimbau large
+
+**Link** para o Embedding Projector com pooling através do arquivo config_pool.json:
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/config_pool_classe.json
 
 ## Geração dos arquivos
 
