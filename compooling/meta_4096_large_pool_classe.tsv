@@ -1,0 +1,435 @@
+Token	POS-Tag	Sentence	Classe
+Como	SCONJ	Como enfileirar elementos em uma fila?	1
+enfileirar	VERB	Como enfileirar elementos em uma fila?	1
+elementos	NOUN	Como enfileirar elementos em uma fila?	1
+em	ADP	Como enfileirar elementos em uma fila?	1
+uma	DET	Como enfileirar elementos em uma fila?	1
+fila	NOUN	Como enfileirar elementos em uma fila?	1
+?	PUNCT	Como enfileirar elementos em uma fila?	1
+Como	SCONJ	Como enfileirar elementos em uma pilha?	0
+enfileirar	VERB	Como enfileirar elementos em uma pilha?	0
+elementos	NOUN	Como enfileirar elementos em uma pilha?	0
+em	ADP	Como enfileirar elementos em uma pilha?	0
+uma	DET	Como enfileirar elementos em uma pilha?	0
+pilha	NOUN	Como enfileirar elementos em uma pilha?	0
+?	PUNCT	Como enfileirar elementos em uma pilha?	0
+Como	SCONJ	Como desenfileirar elementos em uma fila?	1
+desenfileirar	VERB	Como desenfileirar elementos em uma fila?	1
+elementos	NOUN	Como desenfileirar elementos em uma fila?	1
+em	ADP	Como desenfileirar elementos em uma fila?	1
+uma	DET	Como desenfileirar elementos em uma fila?	1
+fila	NOUN	Como desenfileirar elementos em uma fila?	1
+?	PUNCT	Como desenfileirar elementos em uma fila?	1
+Como	SCONJ	Como desenfileirar elementos em uma pilha?	0
+desenfileirar	VERB	Como desenfileirar elementos em uma pilha?	0
+elementos	NOUN	Como desenfileirar elementos em uma pilha?	0
+em	ADP	Como desenfileirar elementos em uma pilha?	0
+uma	DET	Como desenfileirar elementos em uma pilha?	0
+pilha	NOUN	Como desenfileirar elementos em uma pilha?	0
+?	PUNCT	Como desenfileirar elementos em uma pilha?	0
+Como	SCONJ	Como empilhar elementos em uma pilha?	1
+empilhar	VERB	Como empilhar elementos em uma pilha?	1
+elementos	NOUN	Como empilhar elementos em uma pilha?	1
+em	ADP	Como empilhar elementos em uma pilha?	1
+uma	DET	Como empilhar elementos em uma pilha?	1
+pilha	NOUN	Como empilhar elementos em uma pilha?	1
+?	PUNCT	Como empilhar elementos em uma pilha?	1
+Como	SCONJ	Como empilhar elementos em uma fila?	0
+empilhar	VERB	Como empilhar elementos em uma fila?	0
+elementos	NOUN	Como empilhar elementos em uma fila?	0
+em	ADP	Como empilhar elementos em uma fila?	0
+uma	DET	Como empilhar elementos em uma fila?	0
+fila	NOUN	Como empilhar elementos em uma fila?	0
+?	PUNCT	Como empilhar elementos em uma fila?	0
+Como	SCONJ	Como empilhar e desempilhar elementos em uma pilha?	1
+empilhar	VERB	Como empilhar e desempilhar elementos em uma pilha?	1
+e	CCONJ	Como empilhar e desempilhar elementos em uma pilha?	1
+desempilhar	VERB	Como empilhar e desempilhar elementos em uma pilha?	1
+elementos	NOUN	Como empilhar e desempilhar elementos em uma pilha?	1
+em	ADP	Como empilhar e desempilhar elementos em uma pilha?	1
+uma	DET	Como empilhar e desempilhar elementos em uma pilha?	1
+pilha	NOUN	Como empilhar e desempilhar elementos em uma pilha?	1
+?	PUNCT	Como empilhar e desempilhar elementos em uma pilha?	1
+Como	SCONJ	Como empilhar e desempilhar elementos em uma fila?	0
+empilhar	VERB	Como empilhar e desempilhar elementos em uma fila?	0
+e	CCONJ	Como empilhar e desempilhar elementos em uma fila?	0
+desempilhar	VERB	Como empilhar e desempilhar elementos em uma fila?	0
+elementos	NOUN	Como empilhar e desempilhar elementos em uma fila?	0
+em	ADP	Como empilhar e desempilhar elementos em uma fila?	0
+uma	DET	Como empilhar e desempilhar elementos em uma fila?	0
+fila	NOUN	Como empilhar e desempilhar elementos em uma fila?	0
+?	PUNCT	Como empilhar e desempilhar elementos em uma fila?	0
+Como	SCONJ	Como empilhar elementos em uma estrutura de dados pilha?	1
+empilhar	VERB	Como empilhar elementos em uma estrutura de dados pilha?	1
+elementos	NOUN	Como empilhar elementos em uma estrutura de dados pilha?	1
+em	ADP	Como empilhar elementos em uma estrutura de dados pilha?	1
+uma	DET	Como empilhar elementos em uma estrutura de dados pilha?	1
+estrutura	NOUN	Como empilhar elementos em uma estrutura de dados pilha?	1
+de	ADP	Como empilhar elementos em uma estrutura de dados pilha?	1
+dados	NOUN	Como empilhar elementos em uma estrutura de dados pilha?	1
+pilha	NOUN	Como empilhar elementos em uma estrutura de dados pilha?	1
+?	PUNCT	Como empilhar elementos em uma estrutura de dados pilha?	1
+Como	SCONJ	Como empilhar elementos em uma estrutura de dados fila?	0
+empilhar	VERB	Como empilhar elementos em uma estrutura de dados fila?	0
+elementos	NOUN	Como empilhar elementos em uma estrutura de dados fila?	0
+em	ADP	Como empilhar elementos em uma estrutura de dados fila?	0
+uma	DET	Como empilhar elementos em uma estrutura de dados fila?	0
+estrutura	NOUN	Como empilhar elementos em uma estrutura de dados fila?	0
+de	ADP	Como empilhar elementos em uma estrutura de dados fila?	0
+dados	NOUN	Como empilhar elementos em uma estrutura de dados fila?	0
+fila	NOUN	Como empilhar elementos em uma estrutura de dados fila?	0
+?	PUNCT	Como empilhar elementos em uma estrutura de dados fila?	0
+Como	SCONJ	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?	1
+empilhar	VERB	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?	1
+e	CCONJ	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?	1
+desempilhar	VERB	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?	1
+elementos	NOUN	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?	1
+em	ADP	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?	1
+uma	DET	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?	1
+estrutura	NOUN	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?	1
+de	ADP	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?	1
+dados	NOUN	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?	1
+pilha	NOUN	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?	1
+?	PUNCT	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?	1
+Como	SCONJ	Como empilhar e desempilhar elementos em uma estrutura de dados fila?	0
+empilhar	VERB	Como empilhar e desempilhar elementos em uma estrutura de dados fila?	0
+e	CCONJ	Como empilhar e desempilhar elementos em uma estrutura de dados fila?	0
+desempilhar	VERB	Como empilhar e desempilhar elementos em uma estrutura de dados fila?	0
+elementos	NOUN	Como empilhar e desempilhar elementos em uma estrutura de dados fila?	0
+em	ADP	Como empilhar e desempilhar elementos em uma estrutura de dados fila?	0
+uma	DET	Como empilhar e desempilhar elementos em uma estrutura de dados fila?	0
+estrutura	NOUN	Como empilhar e desempilhar elementos em uma estrutura de dados fila?	0
+de	ADP	Como empilhar e desempilhar elementos em uma estrutura de dados fila?	0
+dados	NOUN	Como empilhar e desempilhar elementos em uma estrutura de dados fila?	0
+fila	NOUN	Como empilhar e desempilhar elementos em uma estrutura de dados fila?	0
+?	PUNCT	Como empilhar e desempilhar elementos em uma estrutura de dados fila?	0
+Como	ADP	Como desempilhar elementos em uma pilha?	1
+desempilhar	NOUN	Como desempilhar elementos em uma pilha?	1
+elementos	NOUN	Como desempilhar elementos em uma pilha?	1
+em	ADP	Como desempilhar elementos em uma pilha?	1
+uma	DET	Como desempilhar elementos em uma pilha?	1
+pilha	NOUN	Como desempilhar elementos em uma pilha?	1
+?	PUNCT	Como desempilhar elementos em uma pilha?	1
+Como	ADP	Como desempilhar elementos em uma fila?	0
+desempilhar	NOUN	Como desempilhar elementos em uma fila?	0
+elementos	NOUN	Como desempilhar elementos em uma fila?	0
+em	ADP	Como desempilhar elementos em uma fila?	0
+uma	DET	Como desempilhar elementos em uma fila?	0
+fila	NOUN	Como desempilhar elementos em uma fila?	0
+?	PUNCT	Como desempilhar elementos em uma fila?	0
+Como	ADP	Como desempilhar elementos em uma estrutura de dados pilha?	1
+desempilhar	NOUN	Como desempilhar elementos em uma estrutura de dados pilha?	1
+elementos	NOUN	Como desempilhar elementos em uma estrutura de dados pilha?	1
+em	ADP	Como desempilhar elementos em uma estrutura de dados pilha?	1
+uma	DET	Como desempilhar elementos em uma estrutura de dados pilha?	1
+estrutura	NOUN	Como desempilhar elementos em uma estrutura de dados pilha?	1
+de	ADP	Como desempilhar elementos em uma estrutura de dados pilha?	1
+dados	NOUN	Como desempilhar elementos em uma estrutura de dados pilha?	1
+pilha	NOUN	Como desempilhar elementos em uma estrutura de dados pilha?	1
+?	PUNCT	Como desempilhar elementos em uma estrutura de dados pilha?	1
+Como	ADP	Como desempilhar elementos em uma estrutura de dados fila?	0
+desempilhar	NOUN	Como desempilhar elementos em uma estrutura de dados fila?	0
+elementos	NOUN	Como desempilhar elementos em uma estrutura de dados fila?	0
+em	ADP	Como desempilhar elementos em uma estrutura de dados fila?	0
+uma	DET	Como desempilhar elementos em uma estrutura de dados fila?	0
+estrutura	NOUN	Como desempilhar elementos em uma estrutura de dados fila?	0
+de	ADP	Como desempilhar elementos em uma estrutura de dados fila?	0
+dados	NOUN	Como desempilhar elementos em uma estrutura de dados fila?	0
+fila	NOUN	Como desempilhar elementos em uma estrutura de dados fila?	0
+?	PUNCT	Como desempilhar elementos em uma estrutura de dados fila?	0
+O	PRON	O que é uma pilha e como empilhar seu elemento?	1
+que	PRON	O que é uma pilha e como empilhar seu elemento?	1
+é	AUX	O que é uma pilha e como empilhar seu elemento?	1
+uma	DET	O que é uma pilha e como empilhar seu elemento?	1
+pilha	NOUN	O que é uma pilha e como empilhar seu elemento?	1
+e	CCONJ	O que é uma pilha e como empilhar seu elemento?	1
+como	ADV	O que é uma pilha e como empilhar seu elemento?	1
+empilhar	VERB	O que é uma pilha e como empilhar seu elemento?	1
+seu	DET	O que é uma pilha e como empilhar seu elemento?	1
+elemento	NOUN	O que é uma pilha e como empilhar seu elemento?	1
+?	PUNCT	O que é uma pilha e como empilhar seu elemento?	1
+O	PRON	O que é uma fila e como empilhar seu elemento?	0
+que	PRON	O que é uma fila e como empilhar seu elemento?	0
+é	AUX	O que é uma fila e como empilhar seu elemento?	0
+uma	DET	O que é uma fila e como empilhar seu elemento?	0
+fila	NOUN	O que é uma fila e como empilhar seu elemento?	0
+e	CCONJ	O que é uma fila e como empilhar seu elemento?	0
+como	ADV	O que é uma fila e como empilhar seu elemento?	0
+empilhar	VERB	O que é uma fila e como empilhar seu elemento?	0
+seu	DET	O que é uma fila e como empilhar seu elemento?	0
+elemento	NOUN	O que é uma fila e como empilhar seu elemento?	0
+?	PUNCT	O que é uma fila e como empilhar seu elemento?	0
+O	PRON	O que é uma fila e como enfileirar seu elemento?	1
+que	PRON	O que é uma fila e como enfileirar seu elemento?	1
+é	AUX	O que é uma fila e como enfileirar seu elemento?	1
+uma	DET	O que é uma fila e como enfileirar seu elemento?	1
+fila	NOUN	O que é uma fila e como enfileirar seu elemento?	1
+e	CCONJ	O que é uma fila e como enfileirar seu elemento?	1
+como	ADV	O que é uma fila e como enfileirar seu elemento?	1
+enfileirar	VERB	O que é uma fila e como enfileirar seu elemento?	1
+seu	DET	O que é uma fila e como enfileirar seu elemento?	1
+elemento	NOUN	O que é uma fila e como enfileirar seu elemento?	1
+?	PUNCT	O que é uma fila e como enfileirar seu elemento?	1
+O	PRON	O que é uma pilha e como enfileirar seu elemento?	0
+que	PRON	O que é uma pilha e como enfileirar seu elemento?	0
+é	AUX	O que é uma pilha e como enfileirar seu elemento?	0
+uma	DET	O que é uma pilha e como enfileirar seu elemento?	0
+pilha	NOUN	O que é uma pilha e como enfileirar seu elemento?	0
+e	CCONJ	O que é uma pilha e como enfileirar seu elemento?	0
+como	ADV	O que é uma pilha e como enfileirar seu elemento?	0
+enfileirar	VERB	O que é uma pilha e como enfileirar seu elemento?	0
+seu	DET	O que é uma pilha e como enfileirar seu elemento?	0
+elemento	NOUN	O que é uma pilha e como enfileirar seu elemento?	0
+?	PUNCT	O que é uma pilha e como enfileirar seu elemento?	0
+O	PRON	O que é uma fila e como desenfileirar um elemento nela?	1
+que	PRON	O que é uma fila e como desenfileirar um elemento nela?	1
+é	AUX	O que é uma fila e como desenfileirar um elemento nela?	1
+uma	DET	O que é uma fila e como desenfileirar um elemento nela?	1
+fila	NOUN	O que é uma fila e como desenfileirar um elemento nela?	1
+e	CCONJ	O que é uma fila e como desenfileirar um elemento nela?	1
+como	ADV	O que é uma fila e como desenfileirar um elemento nela?	1
+desenfileirar	ADV	O que é uma fila e como desenfileirar um elemento nela?	1
+um	DET	O que é uma fila e como desenfileirar um elemento nela?	1
+elemento	NOUN	O que é uma fila e como desenfileirar um elemento nela?	1
+nela	PRON	O que é uma fila e como desenfileirar um elemento nela?	1
+?	PUNCT	O que é uma fila e como desenfileirar um elemento nela?	1
+O	PRON	O que é uma pilha e como desenfileirar um elemento nela?	0
+que	PRON	O que é uma pilha e como desenfileirar um elemento nela?	0
+é	AUX	O que é uma pilha e como desenfileirar um elemento nela?	0
+uma	DET	O que é uma pilha e como desenfileirar um elemento nela?	0
+pilha	NOUN	O que é uma pilha e como desenfileirar um elemento nela?	0
+e	CCONJ	O que é uma pilha e como desenfileirar um elemento nela?	0
+como	ADV	O que é uma pilha e como desenfileirar um elemento nela?	0
+desenfileirar	ADV	O que é uma pilha e como desenfileirar um elemento nela?	0
+um	DET	O que é uma pilha e como desenfileirar um elemento nela?	0
+elemento	NOUN	O que é uma pilha e como desenfileirar um elemento nela?	0
+nela	PRON	O que é uma pilha e como desenfileirar um elemento nela?	0
+?	PUNCT	O que é uma pilha e como desenfileirar um elemento nela?	0
+O	PRON	O que é uma pilha e como desempilhar um elemento nela?	1
+que	PRON	O que é uma pilha e como desempilhar um elemento nela?	1
+é	AUX	O que é uma pilha e como desempilhar um elemento nela?	1
+uma	DET	O que é uma pilha e como desempilhar um elemento nela?	1
+pilha	NOUN	O que é uma pilha e como desempilhar um elemento nela?	1
+e	CCONJ	O que é uma pilha e como desempilhar um elemento nela?	1
+como	ADV	O que é uma pilha e como desempilhar um elemento nela?	1
+desempilhar	NOUN	O que é uma pilha e como desempilhar um elemento nela?	1
+um	DET	O que é uma pilha e como desempilhar um elemento nela?	1
+elemento	NOUN	O que é uma pilha e como desempilhar um elemento nela?	1
+nela	PRON	O que é uma pilha e como desempilhar um elemento nela?	1
+?	PUNCT	O que é uma pilha e como desempilhar um elemento nela?	1
+O	PRON	O que é uma fila e como desempilhar um elemento nela?	0
+que	PRON	O que é uma fila e como desempilhar um elemento nela?	0
+é	AUX	O que é uma fila e como desempilhar um elemento nela?	0
+uma	DET	O que é uma fila e como desempilhar um elemento nela?	0
+fila	NOUN	O que é uma fila e como desempilhar um elemento nela?	0
+e	CCONJ	O que é uma fila e como desempilhar um elemento nela?	0
+como	ADV	O que é uma fila e como desempilhar um elemento nela?	0
+desempilhar	NOUN	O que é uma fila e como desempilhar um elemento nela?	0
+um	DET	O que é uma fila e como desempilhar um elemento nela?	0
+elemento	NOUN	O que é uma fila e como desempilhar um elemento nela?	0
+nela	PRON	O que é uma fila e como desempilhar um elemento nela?	0
+?	PUNCT	O que é uma fila e como desempilhar um elemento nela?	0
+O	PRON	O que é uma fila e como enfileirar um elemento nela?	1
+que	PRON	O que é uma fila e como enfileirar um elemento nela?	1
+é	AUX	O que é uma fila e como enfileirar um elemento nela?	1
+uma	DET	O que é uma fila e como enfileirar um elemento nela?	1
+fila	NOUN	O que é uma fila e como enfileirar um elemento nela?	1
+e	CCONJ	O que é uma fila e como enfileirar um elemento nela?	1
+como	ADV	O que é uma fila e como enfileirar um elemento nela?	1
+enfileirar	VERB	O que é uma fila e como enfileirar um elemento nela?	1
+um	DET	O que é uma fila e como enfileirar um elemento nela?	1
+elemento	NOUN	O que é uma fila e como enfileirar um elemento nela?	1
+nela	PRON	O que é uma fila e como enfileirar um elemento nela?	1
+?	PUNCT	O que é uma fila e como enfileirar um elemento nela?	1
+O	PRON	O que é uma pilha e como enfileirar um elemento nela?	0
+que	PRON	O que é uma pilha e como enfileirar um elemento nela?	0
+é	AUX	O que é uma pilha e como enfileirar um elemento nela?	0
+uma	DET	O que é uma pilha e como enfileirar um elemento nela?	0
+pilha	NOUN	O que é uma pilha e como enfileirar um elemento nela?	0
+e	CCONJ	O que é uma pilha e como enfileirar um elemento nela?	0
+como	ADV	O que é uma pilha e como enfileirar um elemento nela?	0
+enfileirar	VERB	O que é uma pilha e como enfileirar um elemento nela?	0
+um	DET	O que é uma pilha e como enfileirar um elemento nela?	0
+elemento	NOUN	O que é uma pilha e como enfileirar um elemento nela?	0
+nela	PRON	O que é uma pilha e como enfileirar um elemento nela?	0
+?	PUNCT	O que é uma pilha e como enfileirar um elemento nela?	0
+O	PRON	O que é uma pilha e como empilhar um elemento nela?	1
+que	PRON	O que é uma pilha e como empilhar um elemento nela?	1
+é	AUX	O que é uma pilha e como empilhar um elemento nela?	1
+uma	DET	O que é uma pilha e como empilhar um elemento nela?	1
+pilha	NOUN	O que é uma pilha e como empilhar um elemento nela?	1
+e	CCONJ	O que é uma pilha e como empilhar um elemento nela?	1
+como	ADV	O que é uma pilha e como empilhar um elemento nela?	1
+empilhar	VERB	O que é uma pilha e como empilhar um elemento nela?	1
+um	DET	O que é uma pilha e como empilhar um elemento nela?	1
+elemento	NOUN	O que é uma pilha e como empilhar um elemento nela?	1
+nela	PRON	O que é uma pilha e como empilhar um elemento nela?	1
+?	PUNCT	O que é uma pilha e como empilhar um elemento nela?	1
+O	PRON	O que é uma fila e como empilhar um elemento nela?	0
+que	PRON	O que é uma fila e como empilhar um elemento nela?	0
+é	AUX	O que é uma fila e como empilhar um elemento nela?	0
+uma	DET	O que é uma fila e como empilhar um elemento nela?	0
+fila	NOUN	O que é uma fila e como empilhar um elemento nela?	0
+e	CCONJ	O que é uma fila e como empilhar um elemento nela?	0
+como	ADV	O que é uma fila e como empilhar um elemento nela?	0
+empilhar	VERB	O que é uma fila e como empilhar um elemento nela?	0
+um	DET	O que é uma fila e como empilhar um elemento nela?	0
+elemento	NOUN	O que é uma fila e como empilhar um elemento nela?	0
+nela	PRON	O que é uma fila e como empilhar um elemento nela?	0
+?	PUNCT	O que é uma fila e como empilhar um elemento nela?	0
+O	PRON	O que é uma pilha e como empilhar e desempilhar seus elementos?	1
+que	PRON	O que é uma pilha e como empilhar e desempilhar seus elementos?	1
+é	AUX	O que é uma pilha e como empilhar e desempilhar seus elementos?	1
+uma	DET	O que é uma pilha e como empilhar e desempilhar seus elementos?	1
+pilha	NOUN	O que é uma pilha e como empilhar e desempilhar seus elementos?	1
+e	CCONJ	O que é uma pilha e como empilhar e desempilhar seus elementos?	1
+como	ADV	O que é uma pilha e como empilhar e desempilhar seus elementos?	1
+empilhar	VERB	O que é uma pilha e como empilhar e desempilhar seus elementos?	1
+e	CCONJ	O que é uma pilha e como empilhar e desempilhar seus elementos?	1
+desempilhar	NOUN	O que é uma pilha e como empilhar e desempilhar seus elementos?	1
+seus	DET	O que é uma pilha e como empilhar e desempilhar seus elementos?	1
+elementos	NOUN	O que é uma pilha e como empilhar e desempilhar seus elementos?	1
+?	PUNCT	O que é uma pilha e como empilhar e desempilhar seus elementos?	1
+O	PRON	O que é uma fila e como empilhar e desempilhar seus elementos?	0
+que	PRON	O que é uma fila e como empilhar e desempilhar seus elementos?	0
+é	AUX	O que é uma fila e como empilhar e desempilhar seus elementos?	0
+uma	DET	O que é uma fila e como empilhar e desempilhar seus elementos?	0
+fila	NOUN	O que é uma fila e como empilhar e desempilhar seus elementos?	0
+e	CCONJ	O que é uma fila e como empilhar e desempilhar seus elementos?	0
+como	ADV	O que é uma fila e como empilhar e desempilhar seus elementos?	0
+empilhar	VERB	O que é uma fila e como empilhar e desempilhar seus elementos?	0
+e	CCONJ	O que é uma fila e como empilhar e desempilhar seus elementos?	0
+desempilhar	NOUN	O que é uma fila e como empilhar e desempilhar seus elementos?	0
+seus	DET	O que é uma fila e como empilhar e desempilhar seus elementos?	0
+elementos	NOUN	O que é uma fila e como empilhar e desempilhar seus elementos?	0
+?	PUNCT	O que é uma fila e como empilhar e desempilhar seus elementos?	0
+O	PRON	O que é uma fila e como enfileirar e desenfileirar seus elementos?	1
+que	PRON	O que é uma fila e como enfileirar e desenfileirar seus elementos?	1
+é	AUX	O que é uma fila e como enfileirar e desenfileirar seus elementos?	1
+uma	DET	O que é uma fila e como enfileirar e desenfileirar seus elementos?	1
+fila	NOUN	O que é uma fila e como enfileirar e desenfileirar seus elementos?	1
+e	CCONJ	O que é uma fila e como enfileirar e desenfileirar seus elementos?	1
+como	SCONJ	O que é uma fila e como enfileirar e desenfileirar seus elementos?	1
+enfileirar	VERB	O que é uma fila e como enfileirar e desenfileirar seus elementos?	1
+e	CCONJ	O que é uma fila e como enfileirar e desenfileirar seus elementos?	1
+desenfileirar	ADV	O que é uma fila e como enfileirar e desenfileirar seus elementos?	1
+seus	DET	O que é uma fila e como enfileirar e desenfileirar seus elementos?	1
+elementos	NOUN	O que é uma fila e como enfileirar e desenfileirar seus elementos?	1
+?	PUNCT	O que é uma fila e como enfileirar e desenfileirar seus elementos?	1
+O	PRON	O que é uma pilha e como enfileirar e desenfileirar seus elementos?	0
+que	PRON	O que é uma pilha e como enfileirar e desenfileirar seus elementos?	0
+é	AUX	O que é uma pilha e como enfileirar e desenfileirar seus elementos?	0
+uma	DET	O que é uma pilha e como enfileirar e desenfileirar seus elementos?	0
+pilha	NOUN	O que é uma pilha e como enfileirar e desenfileirar seus elementos?	0
+e	CCONJ	O que é uma pilha e como enfileirar e desenfileirar seus elementos?	0
+como	SCONJ	O que é uma pilha e como enfileirar e desenfileirar seus elementos?	0
+enfileirar	VERB	O que é uma pilha e como enfileirar e desenfileirar seus elementos?	0
+e	CCONJ	O que é uma pilha e como enfileirar e desenfileirar seus elementos?	0
+desenfileirar	ADV	O que é uma pilha e como enfileirar e desenfileirar seus elementos?	0
+seus	DET	O que é uma pilha e como enfileirar e desenfileirar seus elementos?	0
+elementos	NOUN	O que é uma pilha e como enfileirar e desenfileirar seus elementos?	0
+?	PUNCT	O que é uma pilha e como enfileirar e desenfileirar seus elementos?	0
+Como	ADV	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?	1
+são	AUX	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?	1
+implementadas	VERB	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?	1
+as	DET	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?	1
+operações	NOUN	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?	1
+de	SCONJ	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?	1
+empilhar	VERB	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?	1
+e	CCONJ	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?	1
+desempilhar	VERB	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?	1
+elementos	NOUN	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?	1
+em	ADP	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?	1
+uma	DET	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?	1
+pilha	NOUN	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?	1
+?	PUNCT	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?	1
+Como	ADV	Como são implementadas as operações de empilhar e desempilhar elementos em uma fila?	0
+são	AUX	Como são implementadas as operações de empilhar e desempilhar elementos em uma fila?	0
+implementadas	VERB	Como são implementadas as operações de empilhar e desempilhar elementos em uma fila?	0
+as	DET	Como são implementadas as operações de empilhar e desempilhar elementos em uma fila?	0
+operações	NOUN	Como são implementadas as operações de empilhar e desempilhar elementos em uma fila?	0
+de	SCONJ	Como são implementadas as operações de empilhar e desempilhar elementos em uma fila?	0
+empilhar	VERB	Como são implementadas as operações de empilhar e desempilhar elementos em uma fila?	0
+e	CCONJ	Como são implementadas as operações de empilhar e desempilhar elementos em uma fila?	0
+desempilhar	VERB	Como são implementadas as operações de empilhar e desempilhar elementos em uma fila?	0
+elementos	NOUN	Como são implementadas as operações de empilhar e desempilhar elementos em uma fila?	0
+em	ADP	Como são implementadas as operações de empilhar e desempilhar elementos em uma fila?	0
+uma	DET	Como são implementadas as operações de empilhar e desempilhar elementos em uma fila?	0
+fila	NOUN	Como são implementadas as operações de empilhar e desempilhar elementos em uma fila?	0
+?	PUNCT	Como são implementadas as operações de empilhar e desempilhar elementos em uma fila?	0
+Como	ADV	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?	1
+são	AUX	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?	1
+implementadas	VERB	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?	1
+as	DET	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?	1
+operações	NOUN	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?	1
+de	SCONJ	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?	1
+enfileirar	VERB	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?	1
+e	CCONJ	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?	1
+desenfileirar	DET	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?	1
+elementos	NOUN	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?	1
+em	ADP	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?	1
+uma	DET	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?	1
+fila	NOUN	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?	1
+?	PUNCT	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?	1
+Como	ADV	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma pilha?	0
+são	AUX	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma pilha?	0
+implementadas	VERB	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma pilha?	0
+as	DET	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma pilha?	0
+operações	NOUN	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma pilha?	0
+de	SCONJ	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma pilha?	0
+enfileirar	VERB	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma pilha?	0
+e	CCONJ	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma pilha?	0
+desenfileirar	DET	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma pilha?	0
+elementos	NOUN	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma pilha?	0
+em	ADP	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma pilha?	0
+uma	DET	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma pilha?	0
+pilha	NOUN	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma pilha?	0
+?	PUNCT	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma pilha?	0
+Em	ADP	Em uma pilha a operação de empilhar ocorre em qual extremidade?	1
+uma	DET	Em uma pilha a operação de empilhar ocorre em qual extremidade?	1
+pilha	NOUN	Em uma pilha a operação de empilhar ocorre em qual extremidade?	1
+a	DET	Em uma pilha a operação de empilhar ocorre em qual extremidade?	1
+operação	NOUN	Em uma pilha a operação de empilhar ocorre em qual extremidade?	1
+de	SCONJ	Em uma pilha a operação de empilhar ocorre em qual extremidade?	1
+empilhar	VERB	Em uma pilha a operação de empilhar ocorre em qual extremidade?	1
+ocorre	VERB	Em uma pilha a operação de empilhar ocorre em qual extremidade?	1
+em	ADP	Em uma pilha a operação de empilhar ocorre em qual extremidade?	1
+qual	DET	Em uma pilha a operação de empilhar ocorre em qual extremidade?	1
+extremidade	NOUN	Em uma pilha a operação de empilhar ocorre em qual extremidade?	1
+?	PUNCT	Em uma pilha a operação de empilhar ocorre em qual extremidade?	1
+Em	ADP	Em uma pilha a operação de enfileirar ocorre em qual extremidade?	0
+uma	DET	Em uma pilha a operação de enfileirar ocorre em qual extremidade?	0
+pilha	NOUN	Em uma pilha a operação de enfileirar ocorre em qual extremidade?	0
+a	DET	Em uma pilha a operação de enfileirar ocorre em qual extremidade?	0
+operação	NOUN	Em uma pilha a operação de enfileirar ocorre em qual extremidade?	0
+de	SCONJ	Em uma pilha a operação de enfileirar ocorre em qual extremidade?	0
+enfileirar	VERB	Em uma pilha a operação de enfileirar ocorre em qual extremidade?	0
+ocorre	VERB	Em uma pilha a operação de enfileirar ocorre em qual extremidade?	0
+em	ADP	Em uma pilha a operação de enfileirar ocorre em qual extremidade?	0
+qual	PRON	Em uma pilha a operação de enfileirar ocorre em qual extremidade?	0
+extremidade	NOUN	Em uma pilha a operação de enfileirar ocorre em qual extremidade?	0
+?	PUNCT	Em uma pilha a operação de enfileirar ocorre em qual extremidade?	0
+Em	ADP	Em uma fila a operação de enfileirar ocorre em qual extremidade?	1
+uma	DET	Em uma fila a operação de enfileirar ocorre em qual extremidade?	1
+fila	NOUN	Em uma fila a operação de enfileirar ocorre em qual extremidade?	1
+a	DET	Em uma fila a operação de enfileirar ocorre em qual extremidade?	1
+operação	NOUN	Em uma fila a operação de enfileirar ocorre em qual extremidade?	1
+de	SCONJ	Em uma fila a operação de enfileirar ocorre em qual extremidade?	1
+enfileirar	VERB	Em uma fila a operação de enfileirar ocorre em qual extremidade?	1
+ocorre	VERB	Em uma fila a operação de enfileirar ocorre em qual extremidade?	1
+em	ADP	Em uma fila a operação de enfileirar ocorre em qual extremidade?	1
+qual	PRON	Em uma fila a operação de enfileirar ocorre em qual extremidade?	1
+extremidade	NOUN	Em uma fila a operação de enfileirar ocorre em qual extremidade?	1
+?	PUNCT	Em uma fila a operação de enfileirar ocorre em qual extremidade?	1
+Em	ADP	Em uma fila a operação de empilhar ocorre em qual extremidade?	0
+uma	DET	Em uma fila a operação de empilhar ocorre em qual extremidade?	0
+fila	NOUN	Em uma fila a operação de empilhar ocorre em qual extremidade?	0
+a	DET	Em uma fila a operação de empilhar ocorre em qual extremidade?	0
+operação	NOUN	Em uma fila a operação de empilhar ocorre em qual extremidade?	0
+de	SCONJ	Em uma fila a operação de empilhar ocorre em qual extremidade?	0
+empilhar	VERB	Em uma fila a operação de empilhar ocorre em qual extremidade?	0
+ocorre	VERB	Em uma fila a operação de empilhar ocorre em qual extremidade?	0
+em	ADP	Em uma fila a operação de empilhar ocorre em qual extremidade?	0
+qual	DET	Em uma fila a operação de empilhar ocorre em qual extremidade?	0
+extremidade	NOUN	Em uma fila a operação de empilhar ocorre em qual extremidade?	0
+?	PUNCT	Em uma fila a operação de empilhar ocorre em qual extremidade?	0
