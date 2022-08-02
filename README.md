@@ -4,12 +4,6 @@ Visualização dos embeddings das palavras de documentos originais **(DO)** e pe
 
 Os arquivos utilizados pelo visualizador estão divididos em duas pastas: **"compooling"** e **"sempooling"**. As pastas indicam se foi utilizado o pooling dos embeddings dos tokens das palavras fora do vocabulário ou não.
 
-## A pasta **"sempooling"** possui 4 versões dos DOs do Cohebert com os embeddings dos tokens:
-- 1 - Última camada do BERTimbau base
-- 2 - Última camada do BERTimbau large
-- 3 - Concatenação das 4 últimas camadas do BERTimbau base
-- 5 - Concatenação das 4 últimas camadas do BERTimbau large
-
 **Link** para o Embedding Projector com o arquivo *config.json* e as referências aos dados:
 https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/config.json
 
@@ -19,14 +13,32 @@ https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmar
 - 3 - Concatenação das 4 últimas camadas do BERTimbau base
 - 4 - Concatenação das 4 últimas camadas do BERTimbau large
 
+## A pasta **"sempooling"** possui 4 versões dos DOs do Cohebert com os embeddings dos tokens:
+- 1 - Última camada do BERTimbau base
+- 2 - Última camada do BERTimbau large
+- 3 - Concatenação das 4 últimas camadas do BERTimbau base
+- 5 - Concatenação das 4 últimas camadas do BERTimbau large
+
 **Link** para o Embedding Projector com o arquivo *config_pool.json* e as referências aos dados:
 https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/config_pool.json
 
-## A pasta **"compooling"** possui 1 versão dos DOs e pertDOs do Cohebert de com os embeddings das palavras e sua POS-Tag:
+## A pasta **"compooling"** possui 1 versão dos DOs e pertDOs do Cohebert com os embeddings das palavras e sua POS-Tag:
 - 1 - Concatenação das 4 últimas camadas do BERTimbau large
 
 **Link** para o Embedding Projector com o arquivo *config_pool_classe.json* e as referências aos dados:
 https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/config_pool_classe.json
+
+## A pasta **"faquad"** possui 1 versão dos DOs do FaQuAD com os embeddings das palavras e sua POS-Tag:
+- 1 - Concatenação das 4 últimas camadas do BERTimbau large
+
+**Link** para o Embedding Projector com o arquivo *config_faquad.json* e as referências aos dados:
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/config_faquad.json
+
+## A pasta **"squad2"** possui 1 versão dos DOs do SQuAD 2.0 com os embeddings das palavras e sua POS-Tag:
+- 1 - Concatenação das 4 últimas camadas do BERTimbau large
+
+**Link** para o Embedding Projector com o arquivo *config_squad2.json* e as referências aos dados:
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/config_squad2.json
 
 ## Notebook para geração dos arquivos tsv
 
