@@ -22,7 +22,7 @@ https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmar
 **Link** para o Embedding Projector com o arquivo *config.json* e as referências aos dados:
 https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/config.json
 
-## A pasta **"compooling"** possui 1 versão dos DOs e pertDOs do Cohebert com os embeddings das palavras e sua POS-Tag:
+## A pasta **"compooling"** possui 1 versão dos DOs e pertDOs rotulados do Cohebert com os embeddings das palavras e sua POS-Tag:
 - 1 - Concatenação das 4 últimas camadas do BERTimbau large
 
 **Link** para o Embedding Projector com o arquivo *config_pool_classe.json* e as referências aos dados:
