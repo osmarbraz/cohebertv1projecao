@@ -2,7 +2,7 @@
 
 Visualização dos embeddings das palavras de documentos originais **(DO)** e perturbados **(pertDO)** do **Cohebert** gerados pelo BERTimbau(Large e Base) utilizando o Embedding Projector (https://projector.tensorflow.org/).
 
-Os arquivos utilizados pelo visualizador estão divididos em duas pastas: **"compooling"** e **"sempooling"**. As pastas indicam se foi utilizado o pooling dos embeddings dos tokens das palavras fora do vocabulário ou não.
+Os arquivos utilizados pelo visualizador estão divididos em quatro pastas: **"compooling"** e **"sempooling"** para os arquivos do Cohebert. As pastas indicam se foi utilizado o pooling dos embeddings dos tokens das palavras fora do vocabulário ou não. E as pastas **faquad** e **squad2** para os arquivos do FaQuAD e SQuAD 2.0.
 
 **Link** para o Embedding Projector com o arquivo *config.json* e as referências aos dados:
 https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/config.json
