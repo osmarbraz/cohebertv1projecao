@@ -4,6 +4,12 @@ Visualização dos embeddings das palavras de documentos originais **(DO)** e pe
 
 Os arquivos utilizados pelo visualizador estão divididos em quatro pastas: **"compooling"** e **"sempooling"** para os arquivos do Cohebert. As pastas indicam se foi utilizado o pooling dos embeddings dos tokens das palavras fora do vocabulário ou não. E as pastas **faquad** e **squad2** para os arquivos do FaQuAD e SQuAD 2.0.
 
+As projeções podem utilizar os seguintes **metadados**:
+- Token
+- POS-Tag (Somente para pooling)
+- OOV (0 - Existe no vocabulário do BERT, 1 - Não existe no vocabulário do BERT e combinado os embeddings tokens)
+- Sentence
+
 ## A pasta **"compooling"** possui 4 versões dos DOs do Cohebert com os embeddings das palavras e sua POS-Tag:
 - 1 - Última camada do BERTimbau base
 - 2 - Última camada do BERTimbau large
