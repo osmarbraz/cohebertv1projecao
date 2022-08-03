@@ -1,8 +1,8 @@
-# Visualização dos Embeddings do Cohebert
+# Visualização dos Embeddings
 
-Visualização dos embeddings das palavras de documentos originais **(DO)** e perturbados **(pertDO)** do **Cohebert** gerados pelo BERTimbau(Large e Base) utilizando o Embedding Projector (https://projector.tensorflow.org/).
+Visualização dos embeddings das palavras gerados pelo BERTimbau(Large e Base) utilizando o Embedding Projector (https://projector.tensorflow.org/).
 
-Os arquivos utilizados pelo visualizador estão divididos em quatro pastas: **"compooling"** e **"sempooling"** para os arquivos do Cohebert. As pastas indicam se foi utilizado o pooling dos embeddings dos tokens das palavras fora do vocabulário ou não. E as pastas **faquad** e **squad2** para os arquivos do FaQuAD e SQuAD 2.0.
+Os arquivos utilizados pelo visualizador estão divididos em quatro pastas: **"compooling"** e **"sempooling"** para os arquivos do **Cohebert**. As pastas indicam se foi utilizado o pooling dos embeddings dos tokens das palavras fora do vocabulário ou não. E as pastas **faquad** e **squad2** para os arquivos do **FaQuAD** e **SQuAD 2.0.**
 
 As projeções podem utilizar os seguintes **metadados**:
 - Token
@@ -10,7 +10,7 @@ As projeções podem utilizar os seguintes **metadados**:
 - OOV (0 - Existe no vocabulário do BERT, 1 - Não existe no vocabulário do BERT e combinado os embeddings tokens)
 - Sentence
 
-## A pasta **"compooling"** possui 4 versões dos DOs do Cohebert com os embeddings das palavras e sua POS-Tag:
+## A pasta **"compooling"** possui 4 versões dos DOs do Cohebert com pooling dos embeddings dos tokens de palavras fora do vocabulário(com PoS-Tag):
 - 1 - Última camada do BERTimbau base
 - 2 - Última camada do BERTimbau large
 - 3 - Concatenação das 4 últimas camadas do BERTimbau base
@@ -19,7 +19,7 @@ As projeções podem utilizar os seguintes **metadados**:
 **Link** para o Embedding Projector com o arquivo *config_pool.json* e as referências aos dados:
 https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/config_pool.json
 
-## A pasta **"sempooling"** possui 4 versões dos DOs do Cohebert com os embeddings dos tokens:
+## A pasta **"sempooling"** possui 4 versões dos DOs do Cohebert sem pooling(sem PoS-Tag):
 - 1 - Última camada do BERTimbau base
 - 2 - Última camada do BERTimbau large
 - 3 - Concatenação das 4 últimas camadas do BERTimbau base
@@ -28,19 +28,19 @@ https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmar
 **Link** para o Embedding Projector com o arquivo *config.json* e as referências aos dados:
 https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/config.json
 
-## A pasta **"compooling"** possui 1 versão dos DOs e pertDOs rotulados do Cohebert com os embeddings das palavras e sua POS-Tag:
+## A pasta **"compooling"** possui 1 versão dos DOs e pertDOs rotulados do Cohebert e com pooling dos embeddings de tokens de palavras fora do vocabulário do BERT:
 - 1 - Concatenação das 4 últimas camadas do BERTimbau large
 
 **Link** para o Embedding Projector com o arquivo *config_pool_classe.json* e as referências aos dados:
 https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/config_pool_classe.json
 
-## A pasta **"faquad"** possui 1 versão dos DOs do FaQuAD com os embeddings das palavras e sua POS-Tag:
+## A pasta **"faquad"** possui 1 versão dos DOs do FaQuAD e pooling:
 - 1 - Concatenação das 4 últimas camadas do BERTimbau large
 
 **Link** para o Embedding Projector com o arquivo *config_faquad.json* e as referências aos dados:
 https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/config_faquad.json
 
-## A pasta **"squad2"** possui 1 versão dos DOs do SQuAD 2.0 com os embeddings das palavras e sua POS-Tag:
+## A pasta **"squad2"** possui 1 versão dos DOs do SQuAD 2.0 e pooling:
 - 1 - Concatenação das 4 últimas camadas do BERTimbau large
 
 **Link** para o Embedding Projector com o arquivo *config_squad2.json* e as referências aos dados:
