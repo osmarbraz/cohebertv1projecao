@@ -1,8 +1,8 @@
 # Visualização de Embeddings
 
-Visualização de embeddings das palavras gerados pelo BERTimbau(Large e Base) utilizando o Embedding Projector (https://projector.tensorflow.org/).
+Visualização de embeddings gerados pelo BERTimbau utilizando a ferramenta Embedding Projector (https://projector.tensorflow.org/).
 
-Os arquivos utilizados pelo visualizador estão divididos em quatro pastas: **"compooling"** e **"sempooling"** para os arquivos do **Cohebert**. As pastas indicam se foi utilizado o pooling dos embeddings dos tokens das palavras fora do vocabulário ou não. E as pastas **faquad** e **squad2** para os arquivos da visualização dos embeddings do **FaQuAD** e **SQuAD 2.0.**
+Os arquivos utilizados pelo visualizador estão divididos em quatro pastas: **"compooling"** e **"sempooling"** para os arquivos do **Cohebert**. As pastas indicam se foi utilizado o pooling dos embeddings dos tokens das palavras fora do vocabulário ou não. E as pastas **faquad** e **squad2** para os arquivos da visualização dos embeddings do **FaQuAD** e **SQuAD 2.0.**.
 
 As projeções podem utilizar os seguintes **metadados**:
 - Token
