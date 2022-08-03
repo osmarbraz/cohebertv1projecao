@@ -4,7 +4,7 @@
       "tensorName": "SQuAD2 DO: concat 4 últimas camadas BERTimbau large",
       "tensorShape": [4096, 16192],
       "tensorPath": "https://media.githubusercontent.com/media/osmarbraz/cohebertv1visualizacao/main/squad2/records_squad2_4096_large_pool.tsv",
-      "metadataPath": "https://media.githubusercontent.com/media/osmarbraz/cohebertv1visualizacao/main/squad2/meta_squad2_4096_large_pool.tsv"
+      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/squad2/meta_squad2_4096_large_pool.tsv"
     }
   ]
 }
