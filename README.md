@@ -41,5 +41,7 @@ https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmar
 https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/config_squad2.json
 
 ## Notebook para geração dos arquivos tsv
-
 Os arquivos utilizados pelo Embedding Projector foram gerados pelo notebook: https://github.com/osmarbraz/exemplos_BERT/blob/main/ExemplosVisualizacaoEmbeddingBERT_pt_br.ipynb.
+
+## Arquivos tsv grandes
+Os arquivo tsv maiores que 50Gb devem usar o *Git Large File Storage* **(Git LFS)**. O caminho de arquivos armazenados com Git LFS são diferentes dos armazenados no Git.
