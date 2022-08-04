@@ -3,8 +3,8 @@
     {
       "tensorName": "FaQuAD DO: concat 4 últimas camadas BERTimbau large",
       "tensorShape": [9743, 4096],
-      "tensorPath": "https://drive.google.com/uc?export=download&id=1t16DD2ASbLChGtjGy28wBokyqUptp-qA",
-      "metadataPath": "https://drive.google.com/uc?export=download&id=157FolPWOFp_yl3NoOkleWLC7loxXelXh"
+      "tensorPath": "https://drive.google.com/uc?export=download&id=1JI2pHAiy6CTJ1HAQm_2D-GRT5mX_yptI",
+      "metadataPath": "https://drive.google.com/uc?export=download&id=1ElPN8RiUxHl-iauwzYWO01EmUzTiHofa"
     }
   ]
 }
