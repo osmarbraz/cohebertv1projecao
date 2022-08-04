@@ -1,0 +1,10 @@
+{
+  "embeddings": [   
+    {
+      "tensorName": "FaQuAD DO: concat 4 últimas camadas BERTimbau large",
+      "tensorShape": [9743, 4096],
+      "tensorPath": "https://drive.google.com/file/d/1T4fDwevBYW7nIyQjQoNjrPIPUDGK0sVt/view?usp=sharing",
+      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/faquad/meta_faquad_4096_large_pool.tsv"
+    }
+  ]
+}
