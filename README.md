@@ -28,23 +28,20 @@ https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmar
 **Link** para o Embedding Projector com o arquivo *config.json* e as referências aos dados:
 https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/config.json
 
-## A pasta **"compooling"** possui 1 versão dos DOs e pertDOs rotulados do Cohebert e com pooling dos embeddings de tokens de palavras fora do vocabulário do BERT:
+## A pasta **"compooling"** possui 1 versão dos DOs e 1 versão perturbada(pertDO) rotulados do Cohebert e com pooling dos embeddings de tokens de palavras fora do vocabulário do BERT:
 - 1 - Concatenação das 4 últimas camadas do BERTimbau large
 
 **Link** para o Embedding Projector com o arquivo *config_pool_classe.json* e as referências aos dados:
 https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/config_pool_classe.json
 
-## A pasta **"faquad"** possui 1 versão dos DOs do FaQuAD e pooling:
-- 1 - Concatenação das 4 últimas camadas do BERTimbau large
+## A pasta **"sentenca"** possui 3 versões dos DOs e suas 20 versões perturbadas(pertDOs):
+- 1 - Média dos embeddings dos tokens da senteça da última camada do BERTimbau large
+- 2 - Média dos embeddings dos tokens da sentença da 4 últimas camadas do BERTimbau large
+- 3 - Embeddings do token [CLS] da última camada do BERTimbau large
 
-**Link** para o Embedding Projector com o arquivo *config_faquad.json* e as referências aos dados:
-https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/config_faquad.json
+**Link** para o Embedding Projector com o arquivo *config_sentenca.json* e as referências aos dados:
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/config_sentenca.json
 
-## A pasta **"squad2"** possui 1 versão dos DOs do SQuAD 2.0 e pooling:
-- 1 - Concatenação das 4 últimas camadas do BERTimbau large
-
-**Link** para o Embedding Projector com o arquivo *config_squad2.json* e as referências aos dados:
-https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/config_squad2.json
 
 ## Notebook para geração dos arquivos tsv
 Os arquivos utilizados pelo Embedding Projector foram gerados pelo notebook: https://github.com/osmarbraz/exemplos_BERT/blob/main/ExemplosVisualizacaoEmbeddingBERT_pt_br.ipynb.
