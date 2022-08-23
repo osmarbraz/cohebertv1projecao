@@ -4,13 +4,15 @@ Visualização de embeddings gerados pelo BERTimbau utilizando a ferramenta Embe
 
 Os arquivos utilizados pelo visualizador estão divididos em quatro pastas: **"compooling"** e **"sempooling"** para os arquivos do **Cohebert**. As pastas indicam se foi utilizado o pooling dos embeddings dos tokens das palavras fora do vocabulário ou não. E as pastas **faquad** e **squad2** para os arquivos da visualização dos embeddings do **FaQuAD** e **SQuAD 2.0.**.
 
-As projeções podem utilizar os seguintes **metadados**:
+## Projeção dos embeddings de tokens
+
+As projeções dos embeddings de tokens podem utilizar os seguintes **metadados**:
 - Token
 - POS-Tag (Somente para pooling)
 - OOV (0 - Existe no vocabulário do BERT, 1 - Não existe no vocabulário do BERT e combinado os embeddings tokens)
 - Sentence
 
-## A pasta **"compooling"** possui 4 versões dos DOs do Cohebert com pooling dos embeddings dos tokens de palavras fora do vocabulário(com PoS-Tag):
+### A pasta **"compooling"** possui 4 versões dos DOs do Cohebert com pooling dos embeddings dos tokens de palavras fora do vocabulário(com PoS-Tag):
 - 1 - Última camada do BERTimbau base
 - 2 - Última camada do BERTimbau large
 - 3 - Concatenação das 4 últimas camadas do BERTimbau base
@@ -19,7 +21,7 @@ As projeções podem utilizar os seguintes **metadados**:
 **Link** para o Embedding Projector com o arquivo *config_pool.json* e as referências aos dados:
 https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/config_pool.json
 
-## A pasta **"sempooling"** possui 4 versões dos DOs do Cohebert sem pooling(sem PoS-Tag):
+### A pasta **"sempooling"** possui 4 versões dos DOs do Cohebert sem pooling(sem PoS-Tag):
 - 1 - Última camada do BERTimbau base
 - 2 - Última camada do BERTimbau large
 - 3 - Concatenação das 4 últimas camadas do BERTimbau base
@@ -28,13 +30,20 @@ https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmar
 **Link** para o Embedding Projector com o arquivo *config.json* e as referências aos dados:
 https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/config.json
 
-## A pasta **"compooling"** possui 1 versão dos DOs e 1 versão perturbada(pertDO) rotulados do Cohebert e com pooling dos embeddings de tokens de palavras fora do vocabulário do BERT:
+### A pasta **"compooling"** possui 1 versão dos DOs e 1 versão perturbada(pertDO) rotulados do Cohebert e com pooling dos embeddings de tokens de palavras fora do vocabulário do BERT:
 - 1 - Concatenação das 4 últimas camadas do BERTimbau large
 
 **Link** para o Embedding Projector com o arquivo *config_pool_classe.json* e as referências aos dados:
 https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/config_pool_classe.json
 
-## A pasta **"sentenca"** possui 3 versões dos DOs e suas 20 versões perturbadas(pertDOs):
+## Projeção dos embeddings de sentenças
+
+As projeções dos embeddings de sentenças podem utilizar os seguintes **metadados**:
+- Sentença
+- Origem (Id do DO)
+- Classe (1 - Original, 0 - Perturbado)
+
+### A pasta **"sentenca"** possui 3 versões dos DOs e suas 20 versões perturbadas(pertDOs):
 - 1 - Média dos embeddings dos tokens da senteça da última camada do BERTimbau large
 - 2 - Média dos embeddings dos tokens da sentença da 4 últimas camadas do BERTimbau large
 - 3 - Embeddings do token [CLS] da última camada do BERTimbau large

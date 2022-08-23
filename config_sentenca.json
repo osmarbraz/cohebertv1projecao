@@ -8,7 +8,7 @@
     },   
     {
       "tensorName": "Cohebert DO e pertDO: MEAN tokens concat 4 últimas camadas BERTimbau large",
-      "tensorShape": [420, 4196],
+      "tensorShape": [420, 4096],
       "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/sentenca/records_4096_large_classe_MEAN.tsv",
       "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/sentenca/meta_4096_large_classe_MEAN.tsv"
     },
