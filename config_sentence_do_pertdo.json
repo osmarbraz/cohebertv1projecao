@@ -35,7 +35,6 @@
       "tensorShape": [434, 1024],
       "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/sentence/do_pertdo/records_sentence_DO_PERTDO_P20_CLASSE_1024_large_CLS.tsv",
       "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/sentence/do_pertdo/meta_sentence_DO_PERTDO_P20_CLASSE_1024_large_CLS.tsv"
-    },
-	
+    }	
   ]
 }
