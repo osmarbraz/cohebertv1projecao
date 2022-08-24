@@ -1,0 +1,22 @@
+{
+  "embeddings": [    
+	{
+      "tensorName": "Cohebert DO/20 pertdo: MEAN tokens última camada BERTimbau large",
+      "tensorShape": [420, 1024],
+      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/sentence/do_pertdo/records_sentence_DO_PERTDO_P20_CLASSE_1024_large_MEAN.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/sentence/do_pertdo/meta_sentence_DO_PERTDO_P20_CLASSE_1024_large_MEAN.tsv"
+    },  
+    {
+      "tensorName": "Cohebert DO/20 pertdo: MEAN tokens concat 4 últimas camada BERTimbau large",
+      "tensorShape": [420, 4096],
+      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/sentence/do_pertdo/records_sentence_DO_PERTDO_P20_CLASSE_4096_large_MEAN.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/sentence/do_pertdo/meta_sentence_DO_PERTDO_P20_CLASSE_4096_large_MEAN.tsv"
+    },   
+    {
+      "tensorName": "Cohebert DO/20 pertdo: token CLS última camada BERTimbau large",
+      "tensorShape": [420, 1024],
+      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/sentence/do_pertdo/records_sentence_DO_PERTDO_P20_CLASSE_1024_large_CLS.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/sentence/do_pertdo/meta_sentence_DO_PERTDO_P20_CLASSE_1024_large_CLS.tsv"
+    }	
+  ]
+}

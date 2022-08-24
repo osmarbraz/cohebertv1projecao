@@ -59,14 +59,19 @@ As projeções dos embeddings de sentenças podem utilizar os seguintes **metada
 **Link** para o Embedding Projector com o arquivo *config_sentenca.json* e as referências aos dados:
 https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/config_sentence.json
 
-### A pasta **"do_pertdo"** possui 2 versões dos DO com 1 e 20 versões perturbadas (pertDO) do Cohebert:
+### A pasta **"do_pertdo"** possui 2 versões dos DO com 1 versão perturbada (pertDO) do Cohebert:
 - 1 - Média dos embeddings dos tokens da sentença das 4 últimas camadas do BERTimbau large de 1 DO e 1 pertDO
 - 2 - Embeddings do token [CLS] da última camada do BERTimbau large de 1 DO e 1 pertDO
-- 3 - Média dos embeddings dos tokens da sentença das 4 últimas camadas do BERTimbau large de 1 DO e 20 pertDO
-- 4 - Embeddings do token [CLS] da última camada do BERTimbau large de 1 DO e 20 pertDO
 
-**Link** para o Embedding Projector com o arquivo *config_token_do_pertdo.json* e as referências aos dados:
-https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/config_sentence_do_pertdo.json
+**Link** para o Embedding Projector com o arquivo *config_token_do_1pertdo.json* e as referências aos dados:
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/config_sentence_do_1pertdo.json
+
+### A pasta **"do_pertdo"** possui 2 versões dos DO com 20 versões perturbadas (pertDO) do Cohebert:
+- 1 - Média dos embeddings dos tokens da sentença das 4 últimas camadas do BERTimbau large de 1 DO e 20 pertDO
+- 2 - Embeddings do token [CLS] da última camada do BERTimbau large de 1 DO e 20 pertDO
+
+**Link** para o Embedding Projector com o arquivo *config_token_do_1pertdo.json* e as referências aos dados:
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/config_sentence_do_20pertdo.json
 
 ### Notebook para geração dos arquivos tsv para visualização dos embeddings de sentenças
  
