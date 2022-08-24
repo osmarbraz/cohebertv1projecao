@@ -43,7 +43,7 @@ As projeções dos embeddings de sentenças podem utilizar os seguintes **metada
 - Origem (Id do DO)
 - Classe (1 - Original, 0 - Perturbado)
 
-### A pasta **"sentenca"** possui 3 versões dos DOs e suas 20 versões perturbadas(pertDOs):
+### A pasta **"sentenca"** possui 3 versões dos DOs e suas 20 versões perturbadas(pertDOs) do Cohebert:
 - 1 - Média dos embeddings dos tokens da senteça da última camada do BERTimbau large
 - 2 - Média dos embeddings dos tokens da sentença da 4 últimas camadas do BERTimbau large
 - 3 - Embeddings do token [CLS] da última camada do BERTimbau large
