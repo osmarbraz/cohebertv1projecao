@@ -1,7 +1,7 @@
 {
   "embeddings": [
     {
-      "tensorName": "Cohebert DO/1 pertdo: MEAN tokens última camada BERTimbau large",",
+      "tensorName": "Cohebert DO/1 pertdo: MEAN tokens última camada BERTimbau large",
       "tensorShape": [434, 1024],
       "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/sentence/do_pertdo/records_sentence_DO_PERTDO_P1_CLASSE_1024_large_MEAN.tsv.tsv",
       "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/sentence/do_pertdo/meta_sentence_DO_PERTDO_P1_CLASSE_1024_large_MEAN.tsv"
