@@ -1,9 +1,9 @@
 {
-  "embeddings": [    
-	{
+  "embeddings": [    	
+    {
       "tensorName": "Cohebert DO/1 pertdo: MEAN tokens concat 4 últimas camada BERTimbau large",
       "tensorShape": [40, 4096],
-      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/sentence/do_pertdo/records_sentence_DO_PERTDO_P1_CLASSE_4096_large_MEAN_large.tsv",
+      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/sentence/do_pertdo/records_sentence_DO_PERTDO_P1_CLASSE_4096_large_MEAN.tsv",
       "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/sentence/do_pertdo/meta_sentence_DO_PERTDO_P1_CLASSE_4096_large_MEAN.tsv"
     },   
     {
@@ -11,6 +11,6 @@
       "tensorShape": [40, 1024],
       "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/sentence/do_pertdo/records_sentence_DO_PERTDO_P1_CLASSE_1024_large_CLS.tsv",
       "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/sentence/do_pertdo/meta_sentence_DO_PERTDO_P1_CLASSE_1024_large_CLS.tsv"
-    }
+    }	
   ]
 }
