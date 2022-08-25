@@ -38,8 +38,8 @@ https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmar
 - 1 - Sem pooling e a concatenação das 4 últimas camadas do BERTimbau base
 - 2 - Com pooling e aconcatenação das 4 últimas camadas do BERTimbau large
 
-**Link** para o Embedding Projector com o arquivo *config_token_do_pertdo.json* e as referências aos dados:
-https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/config_token_do_pertdo.json
+**Link** para o Embedding Projector com o arquivo *config_token_do_1pertdo.json* e as referências aos dados:
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/config_token_do_1pertdo.json
 
 ### Notebook para geração dos arquivos tsv para visualização dos embeddings de tokens
  

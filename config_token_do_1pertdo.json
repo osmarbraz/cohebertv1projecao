@@ -2,7 +2,7 @@
   "embeddings": [
     {
       "tensorName": "Cohebert DO/1 pertdo: concat 4 últimas camadas sem pool BERTimbau large",
-      "tensorShape": [434, 4096],
+      "tensorShape": [631, 4096],
       "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/token/do_pertdo_pooling/records_token_DO_PERTDO_P1_CLASSE_4096_large.tsv",
       "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/token/do_pertdo_pooling/meta_token_DO_PERTDO_P1_CLASSE_4096_large.tsv"
     },   
