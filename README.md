@@ -8,7 +8,7 @@ A pasta **"sentence"** contêm os arquivos para a visualização dos embeddings 
 
 ## Projeção dos embeddings de tokens
 
-As projeções dos embeddings de tokens podem utilizar os seguintes **metadados**:
+As projeções dos embeddings de tokens podem se relacionar os seguintes **metadados**:
 - Token
 - POS-Tag (Somente para pooling)
 - OOV (0 - Existe no vocabulário do BERT, 1 - Não existe no vocabulário do BERT e combinado os embeddings tokens)
@@ -45,12 +45,14 @@ https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmar
  
 Os arquivos utilizados pelo Embedding Projector foram gerados pelo notebook: https://github.com/osmarbraz/exemplos_BERT/blob/main/ExemplosVisualizacaoEmbeddingTokenBERT_pt_br.ipynb.
 
+
 ## Projeção dos embeddings de sentenças
 
-As projeções dos embeddings de sentenças podem utilizar os seguintes **metadados**:
+As projeções dos embeddings de sentenças podem se relacionar com os seguintes **metadados**:
 - Sentença
+- Classe (0 - Original e 1 Perturbado)
 
-### A pasta **"sentenca"** possui 4 versões dos DOs do Cohebert:
+### A pasta **"sentence"** possui 4 versões dos DOs do Cohebert:
 - 1 - Média dos embeddings dos tokens da sentença das 4 últimas camadas do BERTimbau base
 - 2 - Média dos embeddings dos tokens da sentença das 4 últimas camadas do BERTimbau large
 - 3 - Embeddings do token [CLS] da última camada do BERTimbau base
@@ -70,7 +72,7 @@ https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmar
 - 1 - Média dos embeddings dos tokens da sentença das 4 últimas camadas do BERTimbau large de 1 DO e 20 pertDO
 - 2 - Embeddings do token [CLS] da última camada do BERTimbau large de 1 DO e 20 pertDO
 
-**Link** para o Embedding Projector com o arquivo *config_token_do_1pertdo.json* e as referências aos dados:
+**Link** para o Embedding Projector com o arquivo *config_token_do_20pertdo.json* e as referências aos dados:
 https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/config_sentence_do_20pertdo.json
 
 ### Notebook para geração dos arquivos tsv para visualização dos embeddings de sentenças
