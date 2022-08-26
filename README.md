@@ -1,6 +1,6 @@
 # Visualização de Embeddings
 
-Visualização de *embeddings* gerados pelo **BERTimbau** utilizando a ferramenta **Embedding Projector** (https://projector.tensorflow.org/).
+Visualização de *embeddings* de tokens e sentenças gerados pelo **BERTimbau** utilizando a ferramenta **Embedding Projector** (https://projector.tensorflow.org/).
 
 Os arquivos utilizados pelo visualizador estão divididos em duas pastas: **"token"** e **"sentence"** para os arquivos do **Cohebert**. As pastas indicam se foi utilizado o *embeddings* de tokens das sentenças ou *embeddings* consolidados das sentenças. 
 A pasta **"token"** contêm os arquivos para a visualização dos *embeddings* dos tokens das sentenças.
