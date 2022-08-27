@@ -36,7 +36,7 @@ Os arquivos dos *embeddings* de tokens da pasta **"token"** estão divididos em 
 
 ### Notebook para geração dos arquivos tsv para visualização dos *embeddings* de tokens
  
-Os arquivos utilizados pelo *Embedding* Projector foram gerados pelo notebook: https://github.com/osmarbraz/exemplos_BERT/blob/main/ExemplosprojecaoEmbeddingTokenBERT_pt_br.ipynb.
+Os arquivos utilizados pelo *Embedding* Projector foram gerados pelo notebook: https://github.com/osmarbraz/exemplos_BERT/blob/main/ExemplosProjecaoEmbeddingTokenBERT_pt_br.ipynb.
 
 ## Projeção dos embeddings de sentenças
 
@@ -55,7 +55,7 @@ As projeções dos embeddings de sentenças podem se relacionar com os seguintes
 
 ### Notebook para geração dos arquivos tsv para visualização dos *embeddings* de sentenças
  
-Os arquivos utilizados pelo **Embedding Projector** foram gerados pelo notebook: https://github.com/osmarbraz/exemplos_BERT/blob/main/ExemplosprojecaoEmbeddingSentencaBERT_pt_br.ipynb.
+Os arquivos utilizados pelo **Embedding Projector** foram gerados pelo notebook: https://github.com/osmarbraz/exemplos_BERT/blob/main/ExemplosProjecaoEmbeddingSentencaBERT_pt_br.ipynb.
 
 ## Arquivos tsv grandes
 
