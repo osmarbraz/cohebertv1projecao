@@ -1,17 +1,17 @@
-# Visualização de Embeddings
+# Projeção de Embeddings
 
-Visualização de *embeddings* de tokens e sentenças gerados pelo **BERTimbau** utilizando a ferramenta **Embedding Projector** (https://projector.tensorflow.org/).
+Projeção de *embeddings* de tokens e sentenças gerados pelo **BERTimbau** utilizando a ferramenta **Embedding Projector** (https://projector.tensorflow.org/).
 
-Os arquivos utilizados pelo visualizador estão divididos em duas pastas: **"token"** e **"sentence"** para os arquivos do **Cohebert**. As pastas indicam se foi utilizado o *embeddings* de tokens das sentenças ou *embeddings* consolidados das sentenças. 
-A pasta **"token"** contêm os arquivos para a visualização dos *embeddings* dos tokens das sentenças.
-A pasta **"sentence"** contêm os arquivos para a visualização dos *embeddings* consolidados dos tokens das sentenças.
+Os arquivos utilizados pelo projetor estão divididos em duas pastas: **"token"** e **"sentence"** para os arquivos do **Cohebert**. As pastas indicam se foi utilizado o *embeddings* de tokens das sentenças ou *embeddings* consolidados das sentenças. 
+A pasta **"token"** contêm os arquivos para a projeção dos *embeddings* dos tokens das sentenças.
+A pasta **"sentence"** contêm os arquivos para a projeção dos *embeddings* consolidados dos tokens das sentenças.
 
 ## Projeção dos embeddings de tokens
 
 As projeções dos *embeddings* de tokens podem se relacionar com os seguintes **metadados**:
 - Token
 - POS-Tag (Somente para *pooling*)
-- OOV (0 - Existe no vocabulário do **BERTimbau**, 1 - Não existe no vocabulário do **BERT** e combinado os *embeddings* tokens)
+- OOV (0 - Existe no vocabulário do **BERTimbau**, 1 - Não existe no vocabulário do **BERT** e combina os *embeddings* dos tokens)
 - Sentence
 
 Os arquivos dos *embeddings* de tokens da pasta **"token"** estão divididos em duas pastas **"compooling"** e **"sempooling"** .
@@ -23,7 +23,7 @@ Os arquivos dos *embeddings* de tokens da pasta **"token"** estão divididos em 
 - 4 - Concatenação das 4 últimas camadas do **BERTimbau** large
 
 **Link** para o arquivo de configuração do **Embedding Projector**:
-- *config_token_pool.json* : https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/config_token_pool.json
+- *config_token_pool.json* : https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1projecao/main/config_token_pool.json
 
 ### A pasta **"sempooling"** possui 4 versões dos DOs do Cohebert sem *pooling*(sem PoS-Tag):
 - 1 - Última camada do **BERTimbau** base
@@ -32,11 +32,11 @@ Os arquivos dos *embeddings* de tokens da pasta **"token"** estão divididos em 
 - 4 - Concatenação das 4 últimas camadas do **BERTimbau** large
 
 **Link** para o arquivo de configuração do **Embedding Projector**:
-- *config_token.json* : https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/config_token.json
+- *config_token.json* : https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1projecao/main/config_token.json
 
 ### Notebook para geração dos arquivos tsv para visualização dos *embeddings* de tokens
  
-Os arquivos utilizados pelo *Embedding* Projector foram gerados pelo notebook: https://github.com/osmarbraz/exemplos_BERT/blob/main/ExemplosVisualizacaoEmbeddingTokenBERT_pt_br.ipynb.
+Os arquivos utilizados pelo *Embedding* Projector foram gerados pelo notebook: https://github.com/osmarbraz/exemplos_BERT/blob/main/ExemplosprojecaoEmbeddingTokenBERT_pt_br.ipynb.
 
 ## Projeção dos embeddings de sentenças
 
@@ -51,11 +51,11 @@ As projeções dos embeddings de sentenças podem se relacionar com os seguintes
 - 4 - *Embeddings* do token [CLS] da última camada do **BERTimbau** large
 
 **Link** para o arquivo de configuração do **Embedding Projector**:
-- *config_sentenca.json* : https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1visualizacao/main/config_sentence.json
+- *config_sentenca.json* : https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1projecao/main/config_sentence.json
 
 ### Notebook para geração dos arquivos tsv para visualização dos *embeddings* de sentenças
  
-Os arquivos utilizados pelo **Embedding Projector** foram gerados pelo notebook: https://github.com/osmarbraz/exemplos_BERT/blob/main/ExemplosVisualizacaoEmbeddingSentencaBERT_pt_br.ipynb.
+Os arquivos utilizados pelo **Embedding Projector** foram gerados pelo notebook: https://github.com/osmarbraz/exemplos_BERT/blob/main/ExemplosprojecaoEmbeddingSentencaBERT_pt_br.ipynb.
 
 ## Arquivos tsv grandes
 
