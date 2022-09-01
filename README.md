@@ -12,6 +12,7 @@ As projeções dos *embeddings* de tokens podem se relacionar com os seguintes *
 - Token
 - POS-Tag (Somente para *pooling*)
 - OOV (0 - Existe no vocabulário do **BERTimbau**, 1 - Não existe no vocabulário do **BERT** e combina os *embeddings* dos tokens)
+- Próximo token da senteça
 - Sentence
 
 Os arquivos dos *embeddings* de tokens da pasta **"token"** estão divididos em duas pastas **"compooling"** e **"sempooling"** .

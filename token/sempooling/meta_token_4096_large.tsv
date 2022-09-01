@@ -1,337 +1,337 @@
-Token	Sentença
-[CLS]	Como enfileirar elementos em uma fila?
-Como	Como enfileirar elementos em uma fila?
-enf	Como enfileirar elementos em uma fila?
-##ile	Como enfileirar elementos em uma fila?
-##ira	Como enfileirar elementos em uma fila?
-##r	Como enfileirar elementos em uma fila?
-elementos	Como enfileirar elementos em uma fila?
-em	Como enfileirar elementos em uma fila?
-uma	Como enfileirar elementos em uma fila?
-fil	Como enfileirar elementos em uma fila?
-##a	Como enfileirar elementos em uma fila?
-?	Como enfileirar elementos em uma fila?
-[SEP]	Como enfileirar elementos em uma fila?
-[CLS]	Como desenfileirar elementos em uma fila?
-Como	Como desenfileirar elementos em uma fila?
-desen	Como desenfileirar elementos em uma fila?
-##fil	Como desenfileirar elementos em uma fila?
-##eira	Como desenfileirar elementos em uma fila?
-##r	Como desenfileirar elementos em uma fila?
-elementos	Como desenfileirar elementos em uma fila?
-em	Como desenfileirar elementos em uma fila?
-uma	Como desenfileirar elementos em uma fila?
-fil	Como desenfileirar elementos em uma fila?
-##a	Como desenfileirar elementos em uma fila?
-?	Como desenfileirar elementos em uma fila?
-[SEP]	Como desenfileirar elementos em uma fila?
-[CLS]	Como empilhar elementos em uma pilha?
-Como	Como empilhar elementos em uma pilha?
-emp	Como empilhar elementos em uma pilha?
-##ilha	Como empilhar elementos em uma pilha?
-##r	Como empilhar elementos em uma pilha?
-elementos	Como empilhar elementos em uma pilha?
-em	Como empilhar elementos em uma pilha?
-uma	Como empilhar elementos em uma pilha?
-pilha	Como empilhar elementos em uma pilha?
-?	Como empilhar elementos em uma pilha?
-[SEP]	Como empilhar elementos em uma pilha?
-[CLS]	Como empilhar e desempilhar elementos em uma pilha?
-Como	Como empilhar e desempilhar elementos em uma pilha?
-emp	Como empilhar e desempilhar elementos em uma pilha?
-##ilha	Como empilhar e desempilhar elementos em uma pilha?
-##r	Como empilhar e desempilhar elementos em uma pilha?
-e	Como empilhar e desempilhar elementos em uma pilha?
-desem	Como empilhar e desempilhar elementos em uma pilha?
-##pi	Como empilhar e desempilhar elementos em uma pilha?
-##l	Como empilhar e desempilhar elementos em uma pilha?
-##har	Como empilhar e desempilhar elementos em uma pilha?
-elementos	Como empilhar e desempilhar elementos em uma pilha?
-em	Como empilhar e desempilhar elementos em uma pilha?
-uma	Como empilhar e desempilhar elementos em uma pilha?
-pilha	Como empilhar e desempilhar elementos em uma pilha?
-?	Como empilhar e desempilhar elementos em uma pilha?
-[SEP]	Como empilhar e desempilhar elementos em uma pilha?
-[CLS]	Como empilhar elementos em uma estrutura de dados pilha?
-Como	Como empilhar elementos em uma estrutura de dados pilha?
-emp	Como empilhar elementos em uma estrutura de dados pilha?
-##ilha	Como empilhar elementos em uma estrutura de dados pilha?
-##r	Como empilhar elementos em uma estrutura de dados pilha?
-elementos	Como empilhar elementos em uma estrutura de dados pilha?
-em	Como empilhar elementos em uma estrutura de dados pilha?
-uma	Como empilhar elementos em uma estrutura de dados pilha?
-estrutura	Como empilhar elementos em uma estrutura de dados pilha?
-de	Como empilhar elementos em uma estrutura de dados pilha?
-dados	Como empilhar elementos em uma estrutura de dados pilha?
-pilha	Como empilhar elementos em uma estrutura de dados pilha?
-?	Como empilhar elementos em uma estrutura de dados pilha?
-[SEP]	Como empilhar elementos em uma estrutura de dados pilha?
-[CLS]	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?
-Como	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?
-emp	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?
-##ilha	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?
-##r	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?
-e	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?
-desem	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?
-##pi	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?
-##l	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?
-##har	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?
-elementos	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?
-em	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?
-uma	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?
-estrutura	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?
-de	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?
-dados	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?
-pilha	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?
-?	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?
-[SEP]	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?
-[CLS]	Como desempilhar elementos em uma pilha?
-Como	Como desempilhar elementos em uma pilha?
-desem	Como desempilhar elementos em uma pilha?
-##pi	Como desempilhar elementos em uma pilha?
-##l	Como desempilhar elementos em uma pilha?
-##har	Como desempilhar elementos em uma pilha?
-elementos	Como desempilhar elementos em uma pilha?
-em	Como desempilhar elementos em uma pilha?
-uma	Como desempilhar elementos em uma pilha?
-pilha	Como desempilhar elementos em uma pilha?
-?	Como desempilhar elementos em uma pilha?
-[SEP]	Como desempilhar elementos em uma pilha?
-[CLS]	Como desempilhar elementos em uma estrutura de dados pilha?
-Como	Como desempilhar elementos em uma estrutura de dados pilha?
-desem	Como desempilhar elementos em uma estrutura de dados pilha?
-##pi	Como desempilhar elementos em uma estrutura de dados pilha?
-##l	Como desempilhar elementos em uma estrutura de dados pilha?
-##har	Como desempilhar elementos em uma estrutura de dados pilha?
-elementos	Como desempilhar elementos em uma estrutura de dados pilha?
-em	Como desempilhar elementos em uma estrutura de dados pilha?
-uma	Como desempilhar elementos em uma estrutura de dados pilha?
-estrutura	Como desempilhar elementos em uma estrutura de dados pilha?
-de	Como desempilhar elementos em uma estrutura de dados pilha?
-dados	Como desempilhar elementos em uma estrutura de dados pilha?
-pilha	Como desempilhar elementos em uma estrutura de dados pilha?
-?	Como desempilhar elementos em uma estrutura de dados pilha?
-[SEP]	Como desempilhar elementos em uma estrutura de dados pilha?
-[CLS]	O que é uma pilha e como empilhar seu elemento?
-O	O que é uma pilha e como empilhar seu elemento?
-que	O que é uma pilha e como empilhar seu elemento?
-é	O que é uma pilha e como empilhar seu elemento?
-uma	O que é uma pilha e como empilhar seu elemento?
-pilha	O que é uma pilha e como empilhar seu elemento?
-e	O que é uma pilha e como empilhar seu elemento?
-como	O que é uma pilha e como empilhar seu elemento?
-emp	O que é uma pilha e como empilhar seu elemento?
-##ilha	O que é uma pilha e como empilhar seu elemento?
-##r	O que é uma pilha e como empilhar seu elemento?
-seu	O que é uma pilha e como empilhar seu elemento?
-elemento	O que é uma pilha e como empilhar seu elemento?
-?	O que é uma pilha e como empilhar seu elemento?
-[SEP]	O que é uma pilha e como empilhar seu elemento?
-[CLS]	O que é uma fila e como enfileirar seu elemento?
-O	O que é uma fila e como enfileirar seu elemento?
-que	O que é uma fila e como enfileirar seu elemento?
-é	O que é uma fila e como enfileirar seu elemento?
-uma	O que é uma fila e como enfileirar seu elemento?
-fil	O que é uma fila e como enfileirar seu elemento?
-##a	O que é uma fila e como enfileirar seu elemento?
-e	O que é uma fila e como enfileirar seu elemento?
-como	O que é uma fila e como enfileirar seu elemento?
-enf	O que é uma fila e como enfileirar seu elemento?
-##ile	O que é uma fila e como enfileirar seu elemento?
-##ira	O que é uma fila e como enfileirar seu elemento?
-##r	O que é uma fila e como enfileirar seu elemento?
-seu	O que é uma fila e como enfileirar seu elemento?
-elemento	O que é uma fila e como enfileirar seu elemento?
-?	O que é uma fila e como enfileirar seu elemento?
-[SEP]	O que é uma fila e como enfileirar seu elemento?
-[CLS]	O que é uma fila e como desenfileirar um elemento nela?
-O	O que é uma fila e como desenfileirar um elemento nela?
-que	O que é uma fila e como desenfileirar um elemento nela?
-é	O que é uma fila e como desenfileirar um elemento nela?
-uma	O que é uma fila e como desenfileirar um elemento nela?
-fil	O que é uma fila e como desenfileirar um elemento nela?
-##a	O que é uma fila e como desenfileirar um elemento nela?
-e	O que é uma fila e como desenfileirar um elemento nela?
-como	O que é uma fila e como desenfileirar um elemento nela?
-desen	O que é uma fila e como desenfileirar um elemento nela?
-##fil	O que é uma fila e como desenfileirar um elemento nela?
-##eira	O que é uma fila e como desenfileirar um elemento nela?
-##r	O que é uma fila e como desenfileirar um elemento nela?
-um	O que é uma fila e como desenfileirar um elemento nela?
-elemento	O que é uma fila e como desenfileirar um elemento nela?
-nela	O que é uma fila e como desenfileirar um elemento nela?
-?	O que é uma fila e como desenfileirar um elemento nela?
-[SEP]	O que é uma fila e como desenfileirar um elemento nela?
-[CLS]	O que é uma pilha e como desempilhar um elemento nela?
-O	O que é uma pilha e como desempilhar um elemento nela?
-que	O que é uma pilha e como desempilhar um elemento nela?
-é	O que é uma pilha e como desempilhar um elemento nela?
-uma	O que é uma pilha e como desempilhar um elemento nela?
-pilha	O que é uma pilha e como desempilhar um elemento nela?
-e	O que é uma pilha e como desempilhar um elemento nela?
-como	O que é uma pilha e como desempilhar um elemento nela?
-desem	O que é uma pilha e como desempilhar um elemento nela?
-##pi	O que é uma pilha e como desempilhar um elemento nela?
-##l	O que é uma pilha e como desempilhar um elemento nela?
-##har	O que é uma pilha e como desempilhar um elemento nela?
-um	O que é uma pilha e como desempilhar um elemento nela?
-elemento	O que é uma pilha e como desempilhar um elemento nela?
-nela	O que é uma pilha e como desempilhar um elemento nela?
-?	O que é uma pilha e como desempilhar um elemento nela?
-[SEP]	O que é uma pilha e como desempilhar um elemento nela?
-[CLS]	O que é uma fila e como enfileirar um elemento nela?
-O	O que é uma fila e como enfileirar um elemento nela?
-que	O que é uma fila e como enfileirar um elemento nela?
-é	O que é uma fila e como enfileirar um elemento nela?
-uma	O que é uma fila e como enfileirar um elemento nela?
-fil	O que é uma fila e como enfileirar um elemento nela?
-##a	O que é uma fila e como enfileirar um elemento nela?
-e	O que é uma fila e como enfileirar um elemento nela?
-como	O que é uma fila e como enfileirar um elemento nela?
-enf	O que é uma fila e como enfileirar um elemento nela?
-##ile	O que é uma fila e como enfileirar um elemento nela?
-##ira	O que é uma fila e como enfileirar um elemento nela?
-##r	O que é uma fila e como enfileirar um elemento nela?
-um	O que é uma fila e como enfileirar um elemento nela?
-elemento	O que é uma fila e como enfileirar um elemento nela?
-nela	O que é uma fila e como enfileirar um elemento nela?
-?	O que é uma fila e como enfileirar um elemento nela?
-[SEP]	O que é uma fila e como enfileirar um elemento nela?
-[CLS]	O que é uma pilha e como empilhar um elemento nela?
-O	O que é uma pilha e como empilhar um elemento nela?
-que	O que é uma pilha e como empilhar um elemento nela?
-é	O que é uma pilha e como empilhar um elemento nela?
-uma	O que é uma pilha e como empilhar um elemento nela?
-pilha	O que é uma pilha e como empilhar um elemento nela?
-e	O que é uma pilha e como empilhar um elemento nela?
-como	O que é uma pilha e como empilhar um elemento nela?
-emp	O que é uma pilha e como empilhar um elemento nela?
-##ilha	O que é uma pilha e como empilhar um elemento nela?
-##r	O que é uma pilha e como empilhar um elemento nela?
-um	O que é uma pilha e como empilhar um elemento nela?
-elemento	O que é uma pilha e como empilhar um elemento nela?
-nela	O que é uma pilha e como empilhar um elemento nela?
-?	O que é uma pilha e como empilhar um elemento nela?
-[SEP]	O que é uma pilha e como empilhar um elemento nela?
-[CLS]	O que é uma pilha e como empilhar e desempilhar seus elementos?
-O	O que é uma pilha e como empilhar e desempilhar seus elementos?
-que	O que é uma pilha e como empilhar e desempilhar seus elementos?
-é	O que é uma pilha e como empilhar e desempilhar seus elementos?
-uma	O que é uma pilha e como empilhar e desempilhar seus elementos?
-pilha	O que é uma pilha e como empilhar e desempilhar seus elementos?
-e	O que é uma pilha e como empilhar e desempilhar seus elementos?
-como	O que é uma pilha e como empilhar e desempilhar seus elementos?
-emp	O que é uma pilha e como empilhar e desempilhar seus elementos?
-##ilha	O que é uma pilha e como empilhar e desempilhar seus elementos?
-##r	O que é uma pilha e como empilhar e desempilhar seus elementos?
-e	O que é uma pilha e como empilhar e desempilhar seus elementos?
-desem	O que é uma pilha e como empilhar e desempilhar seus elementos?
-##pi	O que é uma pilha e como empilhar e desempilhar seus elementos?
-##l	O que é uma pilha e como empilhar e desempilhar seus elementos?
-##har	O que é uma pilha e como empilhar e desempilhar seus elementos?
-seus	O que é uma pilha e como empilhar e desempilhar seus elementos?
-elementos	O que é uma pilha e como empilhar e desempilhar seus elementos?
-?	O que é uma pilha e como empilhar e desempilhar seus elementos?
-[SEP]	O que é uma pilha e como empilhar e desempilhar seus elementos?
-[CLS]	O que é uma fila e como enfileirar e desenfileirar seus elementos?
-O	O que é uma fila e como enfileirar e desenfileirar seus elementos?
-que	O que é uma fila e como enfileirar e desenfileirar seus elementos?
-é	O que é uma fila e como enfileirar e desenfileirar seus elementos?
-uma	O que é uma fila e como enfileirar e desenfileirar seus elementos?
-fil	O que é uma fila e como enfileirar e desenfileirar seus elementos?
-##a	O que é uma fila e como enfileirar e desenfileirar seus elementos?
-e	O que é uma fila e como enfileirar e desenfileirar seus elementos?
-como	O que é uma fila e como enfileirar e desenfileirar seus elementos?
-enf	O que é uma fila e como enfileirar e desenfileirar seus elementos?
-##ile	O que é uma fila e como enfileirar e desenfileirar seus elementos?
-##ira	O que é uma fila e como enfileirar e desenfileirar seus elementos?
-##r	O que é uma fila e como enfileirar e desenfileirar seus elementos?
-e	O que é uma fila e como enfileirar e desenfileirar seus elementos?
-desen	O que é uma fila e como enfileirar e desenfileirar seus elementos?
-##fil	O que é uma fila e como enfileirar e desenfileirar seus elementos?
-##eira	O que é uma fila e como enfileirar e desenfileirar seus elementos?
-##r	O que é uma fila e como enfileirar e desenfileirar seus elementos?
-seus	O que é uma fila e como enfileirar e desenfileirar seus elementos?
-elementos	O que é uma fila e como enfileirar e desenfileirar seus elementos?
-?	O que é uma fila e como enfileirar e desenfileirar seus elementos?
-[SEP]	O que é uma fila e como enfileirar e desenfileirar seus elementos?
-[CLS]	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?
-Como	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?
-são	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?
-imple	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?
-##mentadas	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?
-as	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?
-operações	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?
-de	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?
-emp	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?
-##ilha	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?
-##r	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?
-e	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?
-desem	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?
-##pi	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?
-##l	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?
-##har	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?
-elementos	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?
-em	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?
-uma	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?
-pilha	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?
-?	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?
-[SEP]	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?
-[CLS]	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?
-Como	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?
-são	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?
-imple	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?
-##mentadas	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?
-as	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?
-operações	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?
-de	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?
-enf	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?
-##ile	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?
-##ira	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?
-##r	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?
-e	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?
-desen	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?
-##fil	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?
-##eira	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?
-##r	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?
-elementos	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?
-em	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?
-uma	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?
-fil	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?
-##a	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?
-?	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?
-[SEP]	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?
-[CLS]	Em uma pilha a operação de empilhar ocorre em qual extremidade?
-Em	Em uma pilha a operação de empilhar ocorre em qual extremidade?
-uma	Em uma pilha a operação de empilhar ocorre em qual extremidade?
-pilha	Em uma pilha a operação de empilhar ocorre em qual extremidade?
-a	Em uma pilha a operação de empilhar ocorre em qual extremidade?
-operação	Em uma pilha a operação de empilhar ocorre em qual extremidade?
-de	Em uma pilha a operação de empilhar ocorre em qual extremidade?
-emp	Em uma pilha a operação de empilhar ocorre em qual extremidade?
-##ilha	Em uma pilha a operação de empilhar ocorre em qual extremidade?
-##r	Em uma pilha a operação de empilhar ocorre em qual extremidade?
-ocorre	Em uma pilha a operação de empilhar ocorre em qual extremidade?
-em	Em uma pilha a operação de empilhar ocorre em qual extremidade?
-qual	Em uma pilha a operação de empilhar ocorre em qual extremidade?
-extremidade	Em uma pilha a operação de empilhar ocorre em qual extremidade?
-?	Em uma pilha a operação de empilhar ocorre em qual extremidade?
-[SEP]	Em uma pilha a operação de empilhar ocorre em qual extremidade?
-[CLS]	Em uma fila a operação de enfileirar ocorre em qual extremidade?
-Em	Em uma fila a operação de enfileirar ocorre em qual extremidade?
-uma	Em uma fila a operação de enfileirar ocorre em qual extremidade?
-fil	Em uma fila a operação de enfileirar ocorre em qual extremidade?
-##a	Em uma fila a operação de enfileirar ocorre em qual extremidade?
-a	Em uma fila a operação de enfileirar ocorre em qual extremidade?
-operação	Em uma fila a operação de enfileirar ocorre em qual extremidade?
-de	Em uma fila a operação de enfileirar ocorre em qual extremidade?
-enf	Em uma fila a operação de enfileirar ocorre em qual extremidade?
-##ile	Em uma fila a operação de enfileirar ocorre em qual extremidade?
-##ira	Em uma fila a operação de enfileirar ocorre em qual extremidade?
-##r	Em uma fila a operação de enfileirar ocorre em qual extremidade?
-ocorre	Em uma fila a operação de enfileirar ocorre em qual extremidade?
-em	Em uma fila a operação de enfileirar ocorre em qual extremidade?
-qual	Em uma fila a operação de enfileirar ocorre em qual extremidade?
-extremidade	Em uma fila a operação de enfileirar ocorre em qual extremidade?
-?	Em uma fila a operação de enfileirar ocorre em qual extremidade?
-[SEP]	Em uma fila a operação de enfileirar ocorre em qual extremidade?
+Token	__next__	Sentença
+[CLS]	1	Como enfileirar elementos em uma fila?
+Como	2	Como enfileirar elementos em uma fila?
+enf	3	Como enfileirar elementos em uma fila?
+##ile	4	Como enfileirar elementos em uma fila?
+##ira	5	Como enfileirar elementos em uma fila?
+##r	6	Como enfileirar elementos em uma fila?
+elementos	7	Como enfileirar elementos em uma fila?
+em	8	Como enfileirar elementos em uma fila?
+uma	9	Como enfileirar elementos em uma fila?
+fil	10	Como enfileirar elementos em uma fila?
+##a	11	Como enfileirar elementos em uma fila?
+?	12	Como enfileirar elementos em uma fila?
+[SEP]		Como enfileirar elementos em uma fila?
+[CLS]	14	Como desenfileirar elementos em uma fila?
+Como	15	Como desenfileirar elementos em uma fila?
+desen	16	Como desenfileirar elementos em uma fila?
+##fil	17	Como desenfileirar elementos em uma fila?
+##eira	18	Como desenfileirar elementos em uma fila?
+##r	19	Como desenfileirar elementos em uma fila?
+elementos	20	Como desenfileirar elementos em uma fila?
+em	21	Como desenfileirar elementos em uma fila?
+uma	22	Como desenfileirar elementos em uma fila?
+fil	23	Como desenfileirar elementos em uma fila?
+##a	24	Como desenfileirar elementos em uma fila?
+?	25	Como desenfileirar elementos em uma fila?
+[SEP]		Como desenfileirar elementos em uma fila?
+[CLS]	27	Como empilhar elementos em uma pilha?
+Como	28	Como empilhar elementos em uma pilha?
+emp	29	Como empilhar elementos em uma pilha?
+##ilha	30	Como empilhar elementos em uma pilha?
+##r	31	Como empilhar elementos em uma pilha?
+elementos	32	Como empilhar elementos em uma pilha?
+em	33	Como empilhar elementos em uma pilha?
+uma	34	Como empilhar elementos em uma pilha?
+pilha	35	Como empilhar elementos em uma pilha?
+?	36	Como empilhar elementos em uma pilha?
+[SEP]		Como empilhar elementos em uma pilha?
+[CLS]	38	Como empilhar e desempilhar elementos em uma pilha?
+Como	39	Como empilhar e desempilhar elementos em uma pilha?
+emp	40	Como empilhar e desempilhar elementos em uma pilha?
+##ilha	41	Como empilhar e desempilhar elementos em uma pilha?
+##r	42	Como empilhar e desempilhar elementos em uma pilha?
+e	43	Como empilhar e desempilhar elementos em uma pilha?
+desem	44	Como empilhar e desempilhar elementos em uma pilha?
+##pi	45	Como empilhar e desempilhar elementos em uma pilha?
+##l	46	Como empilhar e desempilhar elementos em uma pilha?
+##har	47	Como empilhar e desempilhar elementos em uma pilha?
+elementos	48	Como empilhar e desempilhar elementos em uma pilha?
+em	49	Como empilhar e desempilhar elementos em uma pilha?
+uma	50	Como empilhar e desempilhar elementos em uma pilha?
+pilha	51	Como empilhar e desempilhar elementos em uma pilha?
+?	52	Como empilhar e desempilhar elementos em uma pilha?
+[SEP]		Como empilhar e desempilhar elementos em uma pilha?
+[CLS]	54	Como empilhar elementos em uma estrutura de dados pilha?
+Como	55	Como empilhar elementos em uma estrutura de dados pilha?
+emp	56	Como empilhar elementos em uma estrutura de dados pilha?
+##ilha	57	Como empilhar elementos em uma estrutura de dados pilha?
+##r	58	Como empilhar elementos em uma estrutura de dados pilha?
+elementos	59	Como empilhar elementos em uma estrutura de dados pilha?
+em	60	Como empilhar elementos em uma estrutura de dados pilha?
+uma	61	Como empilhar elementos em uma estrutura de dados pilha?
+estrutura	62	Como empilhar elementos em uma estrutura de dados pilha?
+de	63	Como empilhar elementos em uma estrutura de dados pilha?
+dados	64	Como empilhar elementos em uma estrutura de dados pilha?
+pilha	65	Como empilhar elementos em uma estrutura de dados pilha?
+?	66	Como empilhar elementos em uma estrutura de dados pilha?
+[SEP]		Como empilhar elementos em uma estrutura de dados pilha?
+[CLS]	68	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?
+Como	69	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?
+emp	70	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?
+##ilha	71	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?
+##r	72	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?
+e	73	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?
+desem	74	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?
+##pi	75	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?
+##l	76	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?
+##har	77	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?
+elementos	78	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?
+em	79	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?
+uma	80	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?
+estrutura	81	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?
+de	82	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?
+dados	83	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?
+pilha	84	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?
+?	85	Como empilhar e desempilhar elementos em uma estrutura de dados pilha?
+[SEP]		Como empilhar e desempilhar elementos em uma estrutura de dados pilha?
+[CLS]	87	Como desempilhar elementos em uma pilha?
+Como	88	Como desempilhar elementos em uma pilha?
+desem	89	Como desempilhar elementos em uma pilha?
+##pi	90	Como desempilhar elementos em uma pilha?
+##l	91	Como desempilhar elementos em uma pilha?
+##har	92	Como desempilhar elementos em uma pilha?
+elementos	93	Como desempilhar elementos em uma pilha?
+em	94	Como desempilhar elementos em uma pilha?
+uma	95	Como desempilhar elementos em uma pilha?
+pilha	96	Como desempilhar elementos em uma pilha?
+?	97	Como desempilhar elementos em uma pilha?
+[SEP]		Como desempilhar elementos em uma pilha?
+[CLS]	99	Como desempilhar elementos em uma estrutura de dados pilha?
+Como	100	Como desempilhar elementos em uma estrutura de dados pilha?
+desem	101	Como desempilhar elementos em uma estrutura de dados pilha?
+##pi	102	Como desempilhar elementos em uma estrutura de dados pilha?
+##l	103	Como desempilhar elementos em uma estrutura de dados pilha?
+##har	104	Como desempilhar elementos em uma estrutura de dados pilha?
+elementos	105	Como desempilhar elementos em uma estrutura de dados pilha?
+em	106	Como desempilhar elementos em uma estrutura de dados pilha?
+uma	107	Como desempilhar elementos em uma estrutura de dados pilha?
+estrutura	108	Como desempilhar elementos em uma estrutura de dados pilha?
+de	109	Como desempilhar elementos em uma estrutura de dados pilha?
+dados	110	Como desempilhar elementos em uma estrutura de dados pilha?
+pilha	111	Como desempilhar elementos em uma estrutura de dados pilha?
+?	112	Como desempilhar elementos em uma estrutura de dados pilha?
+[SEP]		Como desempilhar elementos em uma estrutura de dados pilha?
+[CLS]	114	O que é uma pilha e como empilhar seu elemento?
+O	115	O que é uma pilha e como empilhar seu elemento?
+que	116	O que é uma pilha e como empilhar seu elemento?
+é	117	O que é uma pilha e como empilhar seu elemento?
+uma	118	O que é uma pilha e como empilhar seu elemento?
+pilha	119	O que é uma pilha e como empilhar seu elemento?
+e	120	O que é uma pilha e como empilhar seu elemento?
+como	121	O que é uma pilha e como empilhar seu elemento?
+emp	122	O que é uma pilha e como empilhar seu elemento?
+##ilha	123	O que é uma pilha e como empilhar seu elemento?
+##r	124	O que é uma pilha e como empilhar seu elemento?
+seu	125	O que é uma pilha e como empilhar seu elemento?
+elemento	126	O que é uma pilha e como empilhar seu elemento?
+?	127	O que é uma pilha e como empilhar seu elemento?
+[SEP]		O que é uma pilha e como empilhar seu elemento?
+[CLS]	129	O que é uma fila e como enfileirar seu elemento?
+O	130	O que é uma fila e como enfileirar seu elemento?
+que	131	O que é uma fila e como enfileirar seu elemento?
+é	132	O que é uma fila e como enfileirar seu elemento?
+uma	133	O que é uma fila e como enfileirar seu elemento?
+fil	134	O que é uma fila e como enfileirar seu elemento?
+##a	135	O que é uma fila e como enfileirar seu elemento?
+e	136	O que é uma fila e como enfileirar seu elemento?
+como	137	O que é uma fila e como enfileirar seu elemento?
+enf	138	O que é uma fila e como enfileirar seu elemento?
+##ile	139	O que é uma fila e como enfileirar seu elemento?
+##ira	140	O que é uma fila e como enfileirar seu elemento?
+##r	141	O que é uma fila e como enfileirar seu elemento?
+seu	142	O que é uma fila e como enfileirar seu elemento?
+elemento	143	O que é uma fila e como enfileirar seu elemento?
+?	144	O que é uma fila e como enfileirar seu elemento?
+[SEP]		O que é uma fila e como enfileirar seu elemento?
+[CLS]	146	O que é uma fila e como desenfileirar um elemento nela?
+O	147	O que é uma fila e como desenfileirar um elemento nela?
+que	148	O que é uma fila e como desenfileirar um elemento nela?
+é	149	O que é uma fila e como desenfileirar um elemento nela?
+uma	150	O que é uma fila e como desenfileirar um elemento nela?
+fil	151	O que é uma fila e como desenfileirar um elemento nela?
+##a	152	O que é uma fila e como desenfileirar um elemento nela?
+e	153	O que é uma fila e como desenfileirar um elemento nela?
+como	154	O que é uma fila e como desenfileirar um elemento nela?
+desen	155	O que é uma fila e como desenfileirar um elemento nela?
+##fil	156	O que é uma fila e como desenfileirar um elemento nela?
+##eira	157	O que é uma fila e como desenfileirar um elemento nela?
+##r	158	O que é uma fila e como desenfileirar um elemento nela?
+um	159	O que é uma fila e como desenfileirar um elemento nela?
+elemento	160	O que é uma fila e como desenfileirar um elemento nela?
+nela	161	O que é uma fila e como desenfileirar um elemento nela?
+?	162	O que é uma fila e como desenfileirar um elemento nela?
+[SEP]		O que é uma fila e como desenfileirar um elemento nela?
+[CLS]	164	O que é uma pilha e como desempilhar um elemento nela?
+O	165	O que é uma pilha e como desempilhar um elemento nela?
+que	166	O que é uma pilha e como desempilhar um elemento nela?
+é	167	O que é uma pilha e como desempilhar um elemento nela?
+uma	168	O que é uma pilha e como desempilhar um elemento nela?
+pilha	169	O que é uma pilha e como desempilhar um elemento nela?
+e	170	O que é uma pilha e como desempilhar um elemento nela?
+como	171	O que é uma pilha e como desempilhar um elemento nela?
+desem	172	O que é uma pilha e como desempilhar um elemento nela?
+##pi	173	O que é uma pilha e como desempilhar um elemento nela?
+##l	174	O que é uma pilha e como desempilhar um elemento nela?
+##har	175	O que é uma pilha e como desempilhar um elemento nela?
+um	176	O que é uma pilha e como desempilhar um elemento nela?
+elemento	177	O que é uma pilha e como desempilhar um elemento nela?
+nela	178	O que é uma pilha e como desempilhar um elemento nela?
+?	179	O que é uma pilha e como desempilhar um elemento nela?
+[SEP]		O que é uma pilha e como desempilhar um elemento nela?
+[CLS]	181	O que é uma fila e como enfileirar um elemento nela?
+O	182	O que é uma fila e como enfileirar um elemento nela?
+que	183	O que é uma fila e como enfileirar um elemento nela?
+é	184	O que é uma fila e como enfileirar um elemento nela?
+uma	185	O que é uma fila e como enfileirar um elemento nela?
+fil	186	O que é uma fila e como enfileirar um elemento nela?
+##a	187	O que é uma fila e como enfileirar um elemento nela?
+e	188	O que é uma fila e como enfileirar um elemento nela?
+como	189	O que é uma fila e como enfileirar um elemento nela?
+enf	190	O que é uma fila e como enfileirar um elemento nela?
+##ile	191	O que é uma fila e como enfileirar um elemento nela?
+##ira	192	O que é uma fila e como enfileirar um elemento nela?
+##r	193	O que é uma fila e como enfileirar um elemento nela?
+um	194	O que é uma fila e como enfileirar um elemento nela?
+elemento	195	O que é uma fila e como enfileirar um elemento nela?
+nela	196	O que é uma fila e como enfileirar um elemento nela?
+?	197	O que é uma fila e como enfileirar um elemento nela?
+[SEP]		O que é uma fila e como enfileirar um elemento nela?
+[CLS]	199	O que é uma pilha e como empilhar um elemento nela?
+O	200	O que é uma pilha e como empilhar um elemento nela?
+que	201	O que é uma pilha e como empilhar um elemento nela?
+é	202	O que é uma pilha e como empilhar um elemento nela?
+uma	203	O que é uma pilha e como empilhar um elemento nela?
+pilha	204	O que é uma pilha e como empilhar um elemento nela?
+e	205	O que é uma pilha e como empilhar um elemento nela?
+como	206	O que é uma pilha e como empilhar um elemento nela?
+emp	207	O que é uma pilha e como empilhar um elemento nela?
+##ilha	208	O que é uma pilha e como empilhar um elemento nela?
+##r	209	O que é uma pilha e como empilhar um elemento nela?
+um	210	O que é uma pilha e como empilhar um elemento nela?
+elemento	211	O que é uma pilha e como empilhar um elemento nela?
+nela	212	O que é uma pilha e como empilhar um elemento nela?
+?	213	O que é uma pilha e como empilhar um elemento nela?
+[SEP]		O que é uma pilha e como empilhar um elemento nela?
+[CLS]	215	O que é uma pilha e como empilhar e desempilhar seus elementos?
+O	216	O que é uma pilha e como empilhar e desempilhar seus elementos?
+que	217	O que é uma pilha e como empilhar e desempilhar seus elementos?
+é	218	O que é uma pilha e como empilhar e desempilhar seus elementos?
+uma	219	O que é uma pilha e como empilhar e desempilhar seus elementos?
+pilha	220	O que é uma pilha e como empilhar e desempilhar seus elementos?
+e	221	O que é uma pilha e como empilhar e desempilhar seus elementos?
+como	222	O que é uma pilha e como empilhar e desempilhar seus elementos?
+emp	223	O que é uma pilha e como empilhar e desempilhar seus elementos?
+##ilha	224	O que é uma pilha e como empilhar e desempilhar seus elementos?
+##r	225	O que é uma pilha e como empilhar e desempilhar seus elementos?
+e	226	O que é uma pilha e como empilhar e desempilhar seus elementos?
+desem	227	O que é uma pilha e como empilhar e desempilhar seus elementos?
+##pi	228	O que é uma pilha e como empilhar e desempilhar seus elementos?
+##l	229	O que é uma pilha e como empilhar e desempilhar seus elementos?
+##har	230	O que é uma pilha e como empilhar e desempilhar seus elementos?
+seus	231	O que é uma pilha e como empilhar e desempilhar seus elementos?
+elementos	232	O que é uma pilha e como empilhar e desempilhar seus elementos?
+?	233	O que é uma pilha e como empilhar e desempilhar seus elementos?
+[SEP]		O que é uma pilha e como empilhar e desempilhar seus elementos?
+[CLS]	235	O que é uma fila e como enfileirar e desenfileirar seus elementos?
+O	236	O que é uma fila e como enfileirar e desenfileirar seus elementos?
+que	237	O que é uma fila e como enfileirar e desenfileirar seus elementos?
+é	238	O que é uma fila e como enfileirar e desenfileirar seus elementos?
+uma	239	O que é uma fila e como enfileirar e desenfileirar seus elementos?
+fil	240	O que é uma fila e como enfileirar e desenfileirar seus elementos?
+##a	241	O que é uma fila e como enfileirar e desenfileirar seus elementos?
+e	242	O que é uma fila e como enfileirar e desenfileirar seus elementos?
+como	243	O que é uma fila e como enfileirar e desenfileirar seus elementos?
+enf	244	O que é uma fila e como enfileirar e desenfileirar seus elementos?
+##ile	245	O que é uma fila e como enfileirar e desenfileirar seus elementos?
+##ira	246	O que é uma fila e como enfileirar e desenfileirar seus elementos?
+##r	247	O que é uma fila e como enfileirar e desenfileirar seus elementos?
+e	248	O que é uma fila e como enfileirar e desenfileirar seus elementos?
+desen	249	O que é uma fila e como enfileirar e desenfileirar seus elementos?
+##fil	250	O que é uma fila e como enfileirar e desenfileirar seus elementos?
+##eira	251	O que é uma fila e como enfileirar e desenfileirar seus elementos?
+##r	252	O que é uma fila e como enfileirar e desenfileirar seus elementos?
+seus	253	O que é uma fila e como enfileirar e desenfileirar seus elementos?
+elementos	254	O que é uma fila e como enfileirar e desenfileirar seus elementos?
+?	255	O que é uma fila e como enfileirar e desenfileirar seus elementos?
+[SEP]		O que é uma fila e como enfileirar e desenfileirar seus elementos?
+[CLS]	257	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?
+Como	258	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?
+são	259	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?
+imple	260	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?
+##mentadas	261	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?
+as	262	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?
+operações	263	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?
+de	264	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?
+emp	265	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?
+##ilha	266	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?
+##r	267	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?
+e	268	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?
+desem	269	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?
+##pi	270	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?
+##l	271	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?
+##har	272	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?
+elementos	273	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?
+em	274	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?
+uma	275	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?
+pilha	276	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?
+?	277	Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?
+[SEP]		Como são implementadas as operações de empilhar e desempilhar elementos em uma pilha?
+[CLS]	279	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?
+Como	280	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?
+são	281	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?
+imple	282	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?
+##mentadas	283	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?
+as	284	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?
+operações	285	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?
+de	286	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?
+enf	287	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?
+##ile	288	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?
+##ira	289	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?
+##r	290	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?
+e	291	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?
+desen	292	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?
+##fil	293	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?
+##eira	294	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?
+##r	295	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?
+elementos	296	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?
+em	297	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?
+uma	298	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?
+fil	299	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?
+##a	300	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?
+?	301	Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?
+[SEP]		Como são implementadas as operações de enfileirar e desenfileirar elementos em uma fila?
+[CLS]	303	Em uma pilha a operação de empilhar ocorre em qual extremidade?
+Em	304	Em uma pilha a operação de empilhar ocorre em qual extremidade?
+uma	305	Em uma pilha a operação de empilhar ocorre em qual extremidade?
+pilha	306	Em uma pilha a operação de empilhar ocorre em qual extremidade?
+a	307	Em uma pilha a operação de empilhar ocorre em qual extremidade?
+operação	308	Em uma pilha a operação de empilhar ocorre em qual extremidade?
+de	309	Em uma pilha a operação de empilhar ocorre em qual extremidade?
+emp	310	Em uma pilha a operação de empilhar ocorre em qual extremidade?
+##ilha	311	Em uma pilha a operação de empilhar ocorre em qual extremidade?
+##r	312	Em uma pilha a operação de empilhar ocorre em qual extremidade?
+ocorre	313	Em uma pilha a operação de empilhar ocorre em qual extremidade?
+em	314	Em uma pilha a operação de empilhar ocorre em qual extremidade?
+qual	315	Em uma pilha a operação de empilhar ocorre em qual extremidade?
+extremidade	316	Em uma pilha a operação de empilhar ocorre em qual extremidade?
+?	317	Em uma pilha a operação de empilhar ocorre em qual extremidade?
+[SEP]		Em uma pilha a operação de empilhar ocorre em qual extremidade?
+[CLS]	319	Em uma fila a operação de enfileirar ocorre em qual extremidade?
+Em	320	Em uma fila a operação de enfileirar ocorre em qual extremidade?
+uma	321	Em uma fila a operação de enfileirar ocorre em qual extremidade?
+fil	322	Em uma fila a operação de enfileirar ocorre em qual extremidade?
+##a	323	Em uma fila a operação de enfileirar ocorre em qual extremidade?
+a	324	Em uma fila a operação de enfileirar ocorre em qual extremidade?
+operação	325	Em uma fila a operação de enfileirar ocorre em qual extremidade?
+de	326	Em uma fila a operação de enfileirar ocorre em qual extremidade?
+enf	327	Em uma fila a operação de enfileirar ocorre em qual extremidade?
+##ile	328	Em uma fila a operação de enfileirar ocorre em qual extremidade?
+##ira	329	Em uma fila a operação de enfileirar ocorre em qual extremidade?
+##r	330	Em uma fila a operação de enfileirar ocorre em qual extremidade?
+ocorre	331	Em uma fila a operação de enfileirar ocorre em qual extremidade?
+em	332	Em uma fila a operação de enfileirar ocorre em qual extremidade?
+qual	333	Em uma fila a operação de enfileirar ocorre em qual extremidade?
+extremidade	334	Em uma fila a operação de enfileirar ocorre em qual extremidade?
+?	335	Em uma fila a operação de enfileirar ocorre em qual extremidade?
+[SEP]		Em uma fila a operação de enfileirar ocorre em qual extremidade?
