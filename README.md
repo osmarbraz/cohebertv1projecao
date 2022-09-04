@@ -2,9 +2,9 @@
 
 Projeção de *embeddings* de tokens e sentenças gerados pelo **BERTimbau** utilizando a ferramenta **Embedding Projector** (https://projector.tensorflow.org/).
 
-Os arquivos utilizados pelo projetor estão divididos em duas pastas: **"token"** e **"sentence"** para os arquivos do **Cohebert**. As pastas indicam se foi utilizado o *embeddings* de tokens das sentenças ou *embeddings* consolidados das sentenças. 
+Os arquivos utilizados pelo projetor estão divididos em duas pastas: **"token"** e **"sentenca"** para os arquivos do **Cohebert**. As pastas indicam se foi utilizado o *embeddings* de tokens das sentenças ou *embeddings* consolidados das sentenças. 
 A pasta **"token"** contêm os arquivos para a projeção dos *embeddings* dos tokens das sentenças.
-A pasta **"sentence"** contêm os arquivos para a projeção dos *embeddings* consolidados dos tokens das sentenças.
+A pasta **"sentenca"** contêm os arquivos para a projeção dos *embeddings* consolidados dos tokens das sentenças.
 
 ## Projeção dos embeddings de tokens
 
@@ -13,7 +13,7 @@ As projeções dos *embeddings* de tokens podem se relacionar com os seguintes *
 - POS-Tag (Somente para *pooling*)
 - OOV (0 - Existe no vocabulário do **BERTimbau**, 1 - Não existe no vocabulário do **BERT** e combina os *embeddings* dos tokens)
 - Próximo token da senteça
-- Sentence
+- Sentença
 
 Os arquivos dos *embeddings* de tokens da pasta **"token"** estão divididos em duas pastas **"compooling"** e **"sempooling"** .
 
@@ -45,14 +45,14 @@ As projeções dos embeddings de sentenças podem se relacionar com os seguintes
 - Sentença
 - Classe (0 - Original e 1 - Perturbado)
 
-### A pasta **"sentence"** possui 4 versões dos DOs do Cohebert:
+### A pasta **"sentenca"** possui 4 versões dos DOs do Cohebert:
 - 1 - Média dos *embeddings* dos tokens da sentença das 4 últimas camadas do **BERTimbau** base
 - 2 - Média dos *embeddings* dos tokens da sentença das 4 últimas camadas do **BERTimbau** large
 - 3 - *Embeddings* do token [CLS] da última camada do **BERTimbau** base
 - 4 - *Embeddings* do token [CLS] da última camada do **BERTimbau** large
 
 **Link** para o arquivo de configuração do **Embedding Projector**:
-- *config_sentenca.json* : https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1projecao/main/config_sentence.json
+- *config_sentenca.json* : https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/osmarbraz/cohebertv1projecao/main/config_sentenca.json
 
 ### Notebook para geração dos arquivos tsv para visualização dos *embeddings* de sentenças
  

@@ -1,0 +1,28 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Cohebert DO: MEAN tokens concat 4 últimas camada BERTimbau base",
+      "tensorShape": [420, 1024],
+      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1projecao/main/sentenca/records_sentenca_MEAN_3072_base.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1projecao/main/sentenca/meta_sentenca_MEAN_3072_base.tsv"
+    },   
+    {
+      "tensorName": "Cohebert DO: MEAN tokens concat 4 últimas camadas BERTimbau large",
+      "tensorShape": [420, 4096],
+      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1projecao/main/sentenca/records_sentenca_MEAN_4096_large.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1projecao/main/sentenca/meta_sentenca_MEAN_4096_large.tsv"
+    },
+    {
+      "tensorName": "Cohebert DO: token CLS última camada BERTimbau base",
+      "tensorShape": [20, 768],
+      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1projecao/main/sentenca/records_sentenca_CLS_768_base.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1projecao/main/sentenca/meta_sentenca_CLS_768_base.tsv"
+    },
+    {
+      "tensorName": "Cohebert DO: token CLS última camada BERTimbau large",
+      "tensorShape": [20, 1024],
+      "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1projecao/main/sentenca/records_sentenca_CLS_1024_large.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1projecao/main/sentenca/meta_sentenca_CLS_1024_large.tsv"
+    }
+  ]
+}
