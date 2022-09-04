@@ -24,5 +24,6 @@
       "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1projecao/main/sentenca/records_sentenca_CLS_1024_large.tsv",
       "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1projecao/main/sentenca/meta_sentenca_CLS_1024_large.tsv"
     }
-  ]
+  ],
+  "modelCheckpointPath": "Embeddings de Sentença"
 }

@@ -24,5 +24,6 @@
       "tensorPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1projecao/main/token/compooling/records_token_3072_base_pool.tsv",
       "metadataPath": "https://raw.githubusercontent.com/osmarbraz/cohebertv1projecao/main/token/compooling/meta_token_3072_base_pool.tsv"
     }
-  ]
+  ],
+  "modelCheckpointPath": "Embeddings de Token"
 }
